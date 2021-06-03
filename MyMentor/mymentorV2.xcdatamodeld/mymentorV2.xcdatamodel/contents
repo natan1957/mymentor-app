@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11232" systemVersion="15G1004" minimumToolsVersion="Xcode 4.3" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="AppSettings" representedClassName="AppSettings" syncable="YES">
+        <attribute name="appSettingsArrowDirectionType" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="appSettingsContentWorldId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="appSettingsEnvironment" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="appSettingsNaturalLanguage" optional="YES" attributeType="Boolean" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="appSettingsPlayType" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="appSettingsReplayLessonIndex" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="appSettingsSaveUserAudio" optional="YES" attributeType="Boolean" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="appSettingsShowHighlightedWords" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="appSettingsVoicePromptsIndex" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+    </entity>
+    <entity name="Clip" representedClassName="Clip" syncable="YES">
+        <attribute name="arrowDirectionType" optional="YES" attributeType="Integer 16" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="category1_en_us" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category1_he_il" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category1_order" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="category2_en_us" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category2_he_il" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category2_order" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="category3_en_us" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category3_he_il" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category3_order" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="category4_en_us" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category4_he_il" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category4_order" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="createdAt" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="createdByUser" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="defaultVoicePromptsId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="favorite" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="fileName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="identifier" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lessonContentWorldId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lessonDemo" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lessonDescription_en_us" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lessonDescription_he_il" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lessonDuration" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lessonFingerPrint" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lessonFontName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lessonFontSize" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lessonId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lessonIncludingSupport" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lessonNikudActive" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lessonRamarks_he_il" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lessonRemarks_en_us" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lessonRepeatCount" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lessonSampleText" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lessonSampleTextFontSize" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lessonSwitch1_1" optional="YES" attributeType="Integer 16" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lessonSwitch1_2" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lessonSwitch1_3" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lessonSwitch1_4" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lessonSwitch1_5" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lessonSwitch1_6" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lessonSwitch2_1" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lessonSwitch2_2" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lessonSwitch2_3" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lessonSwitch2_4" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="lessonTeamimActive" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="locked" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="name_en_us" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name_he_il" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="performer_en_us" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="performer_he_il" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="playType" optional="YES" attributeType="Integer 16" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="purchaseId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="repeatLessonStartFrom" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="saveUserAudio" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="showHighlightedWords" optional="YES" attributeType="Integer 16" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="teacherGroupId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="teacherId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="teacherName_en_us" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="teacherName_he_il" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="teacherParentGroupId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="updatedByMyMentor" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="version" optional="YES" attributeType="Decimal" defaultValueString="0.0" syncable="YES"/>
+    </entity>
+    <entity name="ContentWorld" representedClassName="ContentWorld" syncable="YES">
+        <attribute name="category1_en_us" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category1_he_il" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category2_en_us" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category2_he_il" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category3_en_us" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category3_he_il" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category4_en_us" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category4_he_il" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name_en_us" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name_he_il" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="worldId" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="User" representedClassName="User" syncable="YES">
+        <attribute name="admin" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="changeEnvironment" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="contentTester" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="contentWorldId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="deviceIdentifier" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstName_en_us" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstName_he_il" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="groupId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="parentGroupId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updateAt" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="userId" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="VoicePrompts" representedClassName="VoicePrompts" syncable="YES">
+        <attribute name="updateAt" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="voiceId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="voicePromptFile0" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="voicePromptFile1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="voicePromptFile2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="voicePromptFile3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="voicePromptFile4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="voicePromptFile5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="voicePromptFile6" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="voicePromptFile7" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="voicePromptFile8" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="voicePromptFile9" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="voiceType" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="AppSettings" positionX="0" positionY="153" width="128" height="180"/>
+        <element name="Clip" positionX="0" positionY="0" width="128" height="1005"/>
+        <element name="ContentWorld" positionX="0" positionY="153" width="128" height="210"/>
+        <element name="User" positionX="9" positionY="162" width="128" height="210"/>
+        <element name="VoicePrompts" positionX="0" positionY="153" width="128" height="240"/>
+    </elements>
+</model>

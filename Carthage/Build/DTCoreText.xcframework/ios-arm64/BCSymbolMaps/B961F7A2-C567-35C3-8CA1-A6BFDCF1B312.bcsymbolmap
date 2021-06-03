@@ -1,0 +1,2266 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.5 (clang-1205.0.22.9)
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk
+iPhoneOS14.5.sdk
+/Users/walter_yaron/Library/Caches/org.carthage.CarthageKit/DerivedData/12.5_12E262/DTCoreText/1.6.25/Build/Intermediates.noindex/ArchiveIntermediates/DTCoreText (iOS)/IntermediateBuildFilesPath/DTCoreText.build/Release-iphoneos/DTCoreText (iOS).build/DerivedSources/DTCoreText_vers.c
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/CTLineUtils.m
+getTruncationIndex
+Core/Source/CTLineUtils.m
+areLinesEqual
+CFRangeMake
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBase.h
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/NSAttributedStringRunDelegates.m
+createEmbeddedObjectRunDelegate
+Core/Source/NSAttributedStringRunDelegates.m
+embeddedObjectGetWidthCallback
+embeddedObjectGetDescentCallback
+embeddedObjectGetAscentCallback
+embeddedObjectDeallocCallback
+-[DTLazyImageView dealloc]
+-[DTLazyImageView loadImageAtURL:]
+___34-[DTLazyImageView loadImageAtURL:]_block_invoke
+___34-[DTLazyImageView loadImageAtURL:]_block_invoke_2
+___copy_helper_block_e8_32s40s
+___destroy_helper_block_e8_32s40s
+-[DTLazyImageView didMoveToSuperview]
+-[DTLazyImageView cancelLoading]
+-[DTLazyImageView newTransitoryImage:]
+-[DTLazyImageView createAndShowProgressiveImage]
+___48-[DTLazyImageView createAndShowProgressiveImage]_block_invoke
+-[DTLazyImageView _notifyDelegate]
+-[DTLazyImageView completeDownloadWithData:]
+___44-[DTLazyImageView completeDownloadWithData:]_block_invoke
+-[DTLazyImageView URLSession:dataTask:didReceiveResponse:completionHandler:]
+-[DTLazyImageView URLSession:dataTask:didReceiveData:]
+-[DTLazyImageView removeFromSuperview]
+-[DTLazyImageView URLSession:task:didCompleteWithError:]
+-[DTLazyImageView connection:didFailWithError:]
+-[DTLazyImageView setUrlRequest:]
+-[DTLazyImageView delegate]
+-[DTLazyImageView setDelegate:]
+-[DTLazyImageView shouldShowProgressiveDownload]
+-[DTLazyImageView setShouldShowProgressiveDownload:]
+-[DTLazyImageView url]
+-[DTLazyImageView setUrl:]
+-[DTLazyImageView urlRequest]
+-[DTLazyImageView contentView]
+-[DTLazyImageView setContentView:]
+-[DTLazyImageView .cxx_destruct]
+__imageCache
+_OBJC_IVAR_$_DTLazyImageView._delegate
+_OBJC_IVAR_$_DTLazyImageView._dataTask
+_OBJC_IVAR_$_DTLazyImageView._imageSource
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_SELECTOR_REFERENCES_.16
+___block_descriptor_48_e8_32s40s_e5_v8?0l
+_OBJC_IVAR_$_DTLazyImageView._urlRequest
+_OBJC_CLASSLIST_REFERENCES_$_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_CLASSLIST_REFERENCES_$_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_IVAR_$_DTLazyImageView._session
+_OBJC_CLASSLIST_REFERENCES_$_.30
+_OBJC_CLASSLIST_REFERENCES_$_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_IVAR_$_DTLazyImageView._url
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_IVAR_$_DTLazyImageView._fullWidth
+_OBJC_IVAR_$_DTLazyImageView._fullHeight
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_IVAR_$_DTLazyImageView._receivedData
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_IVAR_$_DTLazyImageView._expectedSize
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_CLASSLIST_REFERENCES_$_.60
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_SELECTOR_REFERENCES_.64
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_SELECTOR_REFERENCES_.70
+_completeDownloadWithData:.predicate
+___block_descriptor_32_e5_v8?0l
+___block_literal_global
+_OBJC_CLASSLIST_REFERENCES_$_.71
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_CLASSLIST_REFERENCES_$_.76
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_CLASSLIST_REFERENCES_$_.88
+_OBJC_SELECTOR_REFERENCES_.90
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_SELECTOR_REFERENCES_.96
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_CLASSLIST_REFERENCES_$_.99
+_OBJC_SELECTOR_REFERENCES_.101
+_OBJC_IVAR_$_DTLazyImageView.shouldShowProgressiveDownload
+_OBJC_SELECTOR_REFERENCES_.103
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_SELECTOR_REFERENCES_.107
+_OBJC_SELECTOR_REFERENCES_.109
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_CLASSLIST_REFERENCES_$_.114
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_SELECTOR_REFERENCES_.120
+_OBJC_SELECTOR_REFERENCES_.122
+_OBJC_SELECTOR_REFERENCES_.124
+_OBJC_IVAR_$_DTLazyImageView._contentView
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_NSURLSessionDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSURLSessionDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSURLSessionDelegate
+__OBJC_PROTOCOL_$_NSURLSessionDelegate
+__OBJC_LABEL_PROTOCOL_$_NSURLSessionDelegate
+__OBJC_$_PROTOCOL_REFS_NSURLSessionTaskDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSURLSessionTaskDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSURLSessionTaskDelegate
+__OBJC_PROTOCOL_$_NSURLSessionTaskDelegate
+__OBJC_LABEL_PROTOCOL_$_NSURLSessionTaskDelegate
+__OBJC_$_PROTOCOL_REFS_NSURLSessionDataDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSURLSessionDataDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSURLSessionDataDelegate
+__OBJC_PROTOCOL_$_NSURLSessionDataDelegate
+__OBJC_LABEL_PROTOCOL_$_NSURLSessionDataDelegate
+__OBJC_CLASS_PROTOCOLS_$_DTLazyImageView
+__OBJC_METACLASS_RO_$_DTLazyImageView
+__OBJC_$_INSTANCE_METHODS_DTLazyImageView
+__OBJC_$_INSTANCE_VARIABLES_DTLazyImageView
+__OBJC_$_PROP_LIST_DTLazyImageView
+__OBJC_CLASS_RO_$_DTLazyImageView
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTLazyImageView.m
+Core/Source/DTLazyImageView.m
+Core/Source/DTLazyImageView.h
+__44-[DTLazyImageView completeDownloadWithData:]_block_invoke
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/dispatch/once.h
+__48-[DTLazyImageView createAndShowProgressiveImage]_block_invoke
+__tg_ceil
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/tgmath.h
+__destroy_helper_block_e8_32s40s
+__copy_helper_block_e8_32s40s
+__34-[DTLazyImageView loadImageAtURL:]_block_invoke_2
+__34-[DTLazyImageView loadImageAtURL:]_block_invoke
+-[DTLinkButton initWithFrame:]
+-[DTLinkButton dealloc]
+-[DTLinkButton drawRect:]
+-[DTLinkButton _adjustBoundsIfNecessary]
+-[DTLinkButton highlightNotification:]
+-[DTLinkButton setHighlighted:]
+-[DTLinkButton setFrame:]
+-[DTLinkButton setMinimumHitSize:]
+-[DTLinkButton URL]
+-[DTLinkButton setURL:]
+-[DTLinkButton GUID]
+-[DTLinkButton setGUID:]
+-[DTLinkButton minimumHitSize]
+-[DTLinkButton showsTouchWhenHighlighted]
+-[DTLinkButton setShowsTouchWhenHighlighted:]
+-[DTLinkButton .cxx_destruct]
+_OBJC_IVAR_$_DTLinkButton._showsTouchWhenHighlighted
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_CLASSLIST_REFERENCES_$_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_IVAR_$_DTLinkButton._minimumHitSize
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_IVAR_$_DTLinkButton._GUID
+_OBJC_CLASSLIST_REFERENCES_$_.50
+_OBJC_CLASSLIST_REFERENCES_$_.51
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_IVAR_$_DTLinkButton._URL
+__OBJC_METACLASS_RO_$_DTLinkButton
+__OBJC_$_INSTANCE_METHODS_DTLinkButton
+__OBJC_$_INSTANCE_VARIABLES_DTLinkButton
+__OBJC_$_PROP_LIST_DTLinkButton
+__OBJC_CLASS_RO_$_DTLinkButton
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTLinkButton.m
+Core/Source/DTLinkButton.m
+__CGSizeEqualToSize
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+-[DTBreakHTMLElement attributedString]
+__OBJC_METACLASS_RO_$_DTBreakHTMLElement
+__OBJC_$_INSTANCE_METHODS_DTBreakHTMLElement
+__OBJC_CLASS_RO_$_DTBreakHTMLElement
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTBreakHTMLElement.m
+Core/Source/DTBreakHTMLElement.m
+-[DTCoreTextLayoutFrame(Cursor) closestCursorIndexToPoint:]
+-[DTCoreTextLayoutFrame(Cursor) cursorRectAtIndex:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_DTCoreTextLayoutFrame_$_Cursor
+__OBJC_$_CATEGORY_DTCoreTextLayoutFrame_$_Cursor
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTCoreTextLayoutFrame+Cursor.m
+Core/Source/DTCoreTextLayoutFrame+Cursor.m
+NSMaxRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
++[DTAttributedLabel layerClass]
+-[DTAttributedLabel setupAttributedLabel]
+-[DTAttributedLabel initWithFrame:]
+-[DTAttributedLabel initWithCoder:]
+-[DTAttributedLabel awakeFromNib]
+-[DTAttributedLabel intrinsicContentSize]
+-[DTAttributedLabel numberOfLines]
+-[DTAttributedLabel setNumberOfLines:]
+-[DTAttributedLabel lineBreakMode]
+-[DTAttributedLabel setLineBreakMode:]
+-[DTAttributedLabel truncationString]
+-[DTAttributedLabel setTruncationString:]
+__OBJC_$_CLASS_METHODS_DTAttributedLabel
+__OBJC_METACLASS_RO_$_DTAttributedLabel
+__OBJC_$_INSTANCE_METHODS_DTAttributedLabel
+__OBJC_$_PROP_LIST_DTAttributedLabel
+__OBJC_CLASS_RO_$_DTAttributedLabel
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTAttributedLabel.m
+Core/Source/DTAttributedLabel.m
+-[DTTextAttachmentHTMLElement initWithName:attributes:options:]
+-[DTTextAttachmentHTMLElement attributedString]
+-[DTTextAttachmentHTMLElement displayStyle]
+-[DTTextAttachmentHTMLElement applyStyleDictionary:]
+_OBJC_CLASSLIST_REFERENCES_$_.3
+_OBJC_SELECTOR_REFERENCES_.5
+_OBJC_SELECTOR_REFERENCES_.7
+_OBJC_SELECTOR_REFERENCES_.9
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_IVAR_$_DTTextAttachmentHTMLElement._maxDisplaySize
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.44
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_SELECTOR_REFERENCES_.48
+_OBJC_SELECTOR_REFERENCES_.50
+__OBJC_METACLASS_RO_$_DTTextAttachmentHTMLElement
+__OBJC_$_INSTANCE_METHODS_DTTextAttachmentHTMLElement
+__OBJC_$_INSTANCE_VARIABLES_DTTextAttachmentHTMLElement
+__OBJC_CLASS_RO_$_DTTextAttachmentHTMLElement
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTTextAttachmentHTMLElement.m
+Core/Source/DTTextAttachmentHTMLElement.m
+-[DTAttributedTextView initWithFrame:]
+-[DTAttributedTextView dealloc]
+-[DTAttributedTextView layoutSubviews]
+-[DTAttributedTextView awakeFromNib]
+-[DTAttributedTextView _setup]
+-[DTAttributedTextView classForContentView]
+-[DTAttributedTextView scrollToAnchorNamed:animated:]
+-[DTAttributedTextView scrollRangeToVisible:animated:]
+-[DTAttributedTextView relayoutText]
+___36-[DTAttributedTextView relayoutText]_block_invoke
+___copy_helper_block_e8_32w
+___destroy_helper_block_e8_32w
+-[DTAttributedTextView closestCursorIndexToPoint:]
+-[DTAttributedTextView cursorRectAtIndex:]
+-[DTAttributedTextView contentViewDidLayout:]
+___45-[DTAttributedTextView contentViewDidLayout:]_block_invoke
+___copy_helper_block_e8_32s40s48w
+___destroy_helper_block_e8_32s40s48w
+-[DTAttributedTextView attributedTextContentView]
+-[DTAttributedTextView setBackgroundColor:]
+-[DTAttributedTextView setContentInset:]
+-[DTAttributedTextView backgroundView]
+-[DTAttributedTextView setBackgroundView:]
+-[DTAttributedTextView setAttributedString:]
+-[DTAttributedTextView attributedString]
+-[DTAttributedTextView setFrame:]
+-[DTAttributedTextView setTextDelegate:]
+-[DTAttributedTextView textDelegate]
+-[DTAttributedTextView setShouldDrawLinks:]
+-[DTAttributedTextView setShouldDrawImages:]
+-[DTAttributedTextView shouldDrawLinks]
+-[DTAttributedTextView shouldDrawImages]
+-[DTAttributedTextView .cxx_destruct]
+_OBJC_IVAR_$_DTAttributedTextView._shouldDrawLinks
+_OBJC_IVAR_$_DTAttributedTextView._shouldDrawImages
+_OBJC_CLASSLIST_REFERENCES_$_.34
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_SELECTOR_REFERENCES_.58
+_OBJC_SELECTOR_REFERENCES_.60
+___block_descriptor_40_e8_32w_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.77
+___block_descriptor_56_e8_32s40s48w_e5_v8?0l
+_OBJC_SELECTOR_REFERENCES_.83
+_OBJC_CLASSLIST_REFERENCES_$_.89
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_IVAR_$_DTAttributedTextView._textDelegate
+_OBJC_SELECTOR_REFERENCES_.97
+_OBJC_SELECTOR_REFERENCES_.99
+_OBJC_IVAR_$_DTAttributedTextView._attributedString
+_OBJC_IVAR_$_DTAttributedTextView._backgroundView
+_OBJC_SELECTOR_REFERENCES_.116
+_OBJC_IVAR_$_DTAttributedTextView.textDelegate
+__OBJC_METACLASS_RO_$_DTAttributedTextView
+__OBJC_$_INSTANCE_METHODS_DTAttributedTextView
+__OBJC_$_INSTANCE_VARIABLES_DTAttributedTextView
+__OBJC_$_PROP_LIST_DTAttributedTextView
+__OBJC_CLASS_RO_$_DTAttributedTextView
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTAttributedTextView.m
+Core/Source/DTAttributedTextView.m
+Core/Source/DTAttributedTextView.h
+UIEdgeInsetsEqualToEdgeInsets
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGeometry.h
+UIEdgeInsetsInsetRect
+__destroy_helper_block_e8_32s40s48w
+__copy_helper_block_e8_32s40s48w
+__45-[DTAttributedTextView contentViewDidLayout:]_block_invoke
+__destroy_helper_block_e8_32w
+__copy_helper_block_e8_32w
+__36-[DTAttributedTextView relayoutText]_block_invoke
+-[NSAttributedString(DTCoreText) textAttachmentsWithPredicate:class:]
+___69-[NSAttributedString(DTCoreText) textAttachmentsWithPredicate:class:]_block_invoke
+-[NSAttributedString(DTCoreText) itemNumberInTextList:atIndex:]
+___63-[NSAttributedString(DTCoreText) itemNumberInTextList:atIndex:]_block_invoke
+-[NSAttributedString(DTCoreText) _rangeOfObject:inArrayBehindAttribute:atIndex:]
+-[NSAttributedString(DTCoreText) rangeOfTextList:atIndex:]
+-[NSAttributedString(DTCoreText) rangeOfTextBlock:atIndex:]
+-[NSAttributedString(DTCoreText) rangeOfAnchorNamed:]
+___53-[NSAttributedString(DTCoreText) rangeOfAnchorNamed:]_block_invoke
+___copy_helper_block_e8_32s40r
+___destroy_helper_block_e8_32s40r
+-[NSAttributedString(DTCoreText) rangeOfLinkAtIndex:URL:]
+-[NSAttributedString(DTCoreText) rangeOfFieldAtIndex:]
+-[NSAttributedString(DTCoreText) htmlString]
+-[NSAttributedString(DTCoreText) htmlFragment]
+-[NSAttributedString(DTCoreText) plainTextString]
++[NSAttributedString(DTCoreText) prefixForListItemWithCounter:listStyle:listIndent:attributes:]
+___block_descriptor_56_e8_32s40s_e45_v40?0"DTTextAttachment"8{_NSRange=QQ}16^B32lu48l8
+_OBJC_CLASSLIST_REFERENCES_$_.28
+___block_descriptor_72_e8_32s40s_e52_v56?0"NSString"8{_NSRange=QQ}16{_NSRange=QQ}32^B48l
+___block_descriptor_48_e8_32s40r_e37_v40?0"NSString"8{_NSRange=QQ}16^B32l
+_OBJC_CLASSLIST_REFERENCES_$_.54
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_CLASSLIST_REFERENCES_$_.66
+_OBJC_SELECTOR_REFERENCES_.72
+_OBJC_SELECTOR_REFERENCES_.74
+_OBJC_SELECTOR_REFERENCES_.76
+_OBJC_SELECTOR_REFERENCES_.78
+_OBJC_CLASSLIST_REFERENCES_$_.79
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_CLASSLIST_REFERENCES_$_.90
+_OBJC_SELECTOR_REFERENCES_.94
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_CLASSLIST_REFERENCES_$_.103
+_OBJC_CLASSLIST_REFERENCES_$_.108
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_CLASSLIST_REFERENCES_$_.111
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_SELECTOR_REFERENCES_.117
+_OBJC_SELECTOR_REFERENCES_.119
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_SELECTOR_REFERENCES_.123
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSAttributedString_$_DTCoreText
+__OBJC_$_CATEGORY_CLASS_METHODS_NSAttributedString_$_DTCoreText
+__OBJC_$_CATEGORY_NSAttributedString_$_DTCoreText
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/NSAttributedString+DTCoreText.m
+Core/Source/NSAttributedString+DTCoreText.m
+__destroy_helper_block_e8_32s40r
+__copy_helper_block_e8_32s40r
+__53-[NSAttributedString(DTCoreText) rangeOfAnchorNamed:]_block_invoke
+NSMakeRange
+__63-[NSAttributedString(DTCoreText) itemNumberInTextList:atIndex:]_block_invoke
+NSLocationInRange
+__69-[NSAttributedString(DTCoreText) textAttachmentsWithPredicate:class:]_block_invoke
++[DTAttributedTextContentView(Tiling) setLayerClass:]
++[DTAttributedTextContentView(Tiling) layerClass]
+-[DTAttributedTextContentView(Cursor) closestCursorIndexToPoint:]
+-[DTAttributedTextContentView(Cursor) cursorRectAtIndex:]
+-[DTAttributedTextContentView setup]
+-[DTAttributedTextContentView initWithFrame:]
+-[DTAttributedTextContentView awakeFromNib]
+-[DTAttributedTextContentView dealloc]
+-[DTAttributedTextContentView debugDescription]
+-[DTAttributedTextContentView layoutSubviewsInRect:]
+-[DTAttributedTextContentView layoutSubviews]
+-[DTAttributedTextContentView drawLayer:inContext:]
+-[DTAttributedTextContentView drawRect:]
+-[DTAttributedTextContentView relayoutText]
+___43-[DTAttributedTextContentView relayoutText]_block_invoke
+___copy_helper_block_e8_32s40w
+___destroy_helper_block_e8_32s40w
+-[DTAttributedTextContentView removeAllCustomViewsForLinks]
+-[DTAttributedTextContentView removeAllCustomViews]
+-[DTAttributedTextContentView removeSubviewsOutsideRect:]
+-[DTAttributedTextContentView setBounds:]
+-[DTAttributedTextContentView intrinsicContentSize]
+-[DTAttributedTextContentView sizeThatFits:]
+-[DTAttributedTextContentView _frameForLayoutFrameConstraintedToWidth:]
+-[DTAttributedTextContentView suggestedFrameSizeToFitEntireStringConstraintedToWidth:]
+-[DTAttributedTextContentView setEdgeInsets:]
+-[DTAttributedTextContentView setAttributedString:]
+-[DTAttributedTextContentView setFrame:]
+-[DTAttributedTextContentView setShouldAddFirstLineLeading:]
+-[DTAttributedTextContentView setShouldDrawImages:]
+-[DTAttributedTextContentView setShouldDrawLinks:]
+-[DTAttributedTextContentView setBackgroundColor:]
+-[DTAttributedTextContentView layouter]
+-[DTAttributedTextContentView setLayouter:]
+-[DTAttributedTextContentView layoutFrame]
+___42-[DTAttributedTextContentView layoutFrame]_block_invoke
+-[DTAttributedTextContentView setLayoutFrame:]
+-[DTAttributedTextContentView customViews]
+-[DTAttributedTextContentView customViewsForLinksIndex]
+-[DTAttributedTextContentView customViewsForAttachmentsIndex]
+-[DTAttributedTextContentView setDelegate:]
+-[DTAttributedTextContentView invalidateAccessibilityElements]
+-[DTAttributedTextContentView isAccessibilityElement]
+-[DTAttributedTextContentView accessibilityElementCount]
+-[DTAttributedTextContentView accessibilityElementAtIndex:]
+-[DTAttributedTextContentView indexOfAccessibilityElement:]
+___59-[DTAttributedTextContentView indexOfAccessibilityElement:]_block_invoke
+___copy_helper_block_e8_32s
+___destroy_helper_block_e8_32s
+-[DTAttributedTextContentView accessibilityElements]
+___52-[DTAttributedTextContentView accessibilityElements]_block_invoke
+-[DTAttributedTextContentView viewForTextAttachment:proxy:]
+-[DTAttributedTextContentView attributedString]
+-[DTAttributedTextContentView delegate]
+-[DTAttributedTextContentView edgeInsets]
+-[DTAttributedTextContentView shouldDrawImages]
+-[DTAttributedTextContentView shouldDrawLinks]
+-[DTAttributedTextContentView shouldLayoutCustomSubviews]
+-[DTAttributedTextContentView setShouldLayoutCustomSubviews:]
+-[DTAttributedTextContentView layoutOffset]
+-[DTAttributedTextContentView setLayoutOffset:]
+-[DTAttributedTextContentView backgroundOffset]
+-[DTAttributedTextContentView setBackgroundOffset:]
+-[DTAttributedTextContentView setCustomViews:]
+-[DTAttributedTextContentView setCustomViewsForLinksIndex:]
+-[DTAttributedTextContentView setCustomViewsForAttachmentsIndex:]
+-[DTAttributedTextContentView relayoutMask]
+-[DTAttributedTextContentView setRelayoutMask:]
+-[DTAttributedTextContentView setAccessibilityElements:]
+-[DTAttributedTextContentView layoutFrameHeightIsConstrainedByBounds]
+-[DTAttributedTextContentView setLayoutFrameHeightIsConstrainedByBounds:]
+-[DTAttributedTextContentView .cxx_destruct]
+-[DTAttributedTextContentView(Drawing) contentImageWithBounds:options:]
+__layerClassToUseForDTAttributedTextContentView
+__OBJC_$_CATEGORY_CLASS_METHODS_DTAttributedTextContentView_$_Tiling
+__OBJC_$_CATEGORY_DTAttributedTextContentView_$_Tiling
+__OBJC_$_CATEGORY_INSTANCE_METHODS_DTAttributedTextContentView_$_Cursor
+__OBJC_$_CATEGORY_DTAttributedTextContentView_$_Cursor
+_OBJC_IVAR_$_DTAttributedTextContentView._shouldLayoutCustomSubviews
+_OBJC_IVAR_$_DTAttributedTextContentView._shouldAddFirstLineLeading
+_OBJC_IVAR_$_DTAttributedTextContentView._shouldDrawImages
+_OBJC_IVAR_$_DTAttributedTextContentView._shouldDrawLinks
+_OBJC_IVAR_$_DTAttributedTextContentView._layoutFrameHeightIsConstrainedByBounds
+_OBJC_IVAR_$_DTAttributedTextContentView._relayoutMask
+_OBJC_CLASSLIST_REFERENCES_$_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_CLASSLIST_REFERENCES_$_.24
+_OBJC_CLASSLIST_REFERENCES_$_.27
+_OBJC_IVAR_$_DTAttributedTextContentView._isTiling
+_OBJC_CLASSLIST_REFERENCES_$_.62
+_OBJC_IVAR_$_DTAttributedTextContentView._layoutOffset
+_OBJC_SELECTOR_REFERENCES_.126
+_OBJC_SELECTOR_REFERENCES_.128
+_OBJC_SELECTOR_REFERENCES_.130
+_OBJC_CLASSLIST_REFERENCES_$_.131
+_OBJC_CLASSLIST_REFERENCES_$_.132
+_OBJC_SELECTOR_REFERENCES_.134
+_OBJC_IVAR_$_DTAttributedTextContentView._delegateFlags
+_OBJC_IVAR_$_DTAttributedTextContentView._delegate
+_OBJC_SELECTOR_REFERENCES_.136
+_OBJC_SELECTOR_REFERENCES_.138
+_OBJC_SELECTOR_REFERENCES_.140
+_OBJC_SELECTOR_REFERENCES_.142
+_OBJC_SELECTOR_REFERENCES_.144
+_OBJC_SELECTOR_REFERENCES_.146
+_OBJC_SELECTOR_REFERENCES_.148
+_OBJC_SELECTOR_REFERENCES_.150
+_OBJC_SELECTOR_REFERENCES_.152
+_OBJC_SELECTOR_REFERENCES_.154
+_OBJC_SELECTOR_REFERENCES_.156
+_OBJC_SELECTOR_REFERENCES_.158
+_OBJC_SELECTOR_REFERENCES_.160
+_OBJC_SELECTOR_REFERENCES_.162
+_OBJC_SELECTOR_REFERENCES_.166
+_OBJC_SELECTOR_REFERENCES_.168
+_OBJC_IVAR_$_DTAttributedTextContentView._backgroundOffset
+_OBJC_SELECTOR_REFERENCES_.170
+_OBJC_SELECTOR_REFERENCES_.172
+_OBJC_SELECTOR_REFERENCES_.174
+_OBJC_SELECTOR_REFERENCES_.176
+_OBJC_SELECTOR_REFERENCES_.178
+_OBJC_SELECTOR_REFERENCES_.180
+_OBJC_SELECTOR_REFERENCES_.182
+_OBJC_SELECTOR_REFERENCES_.184
+_OBJC_CLASSLIST_REFERENCES_$_.185
+_OBJC_CLASSLIST_REFERENCES_$_.186
+_OBJC_SELECTOR_REFERENCES_.188
+_OBJC_SELECTOR_REFERENCES_.192
+_OBJC_CLASSLIST_REFERENCES_$_.193
+_OBJC_SELECTOR_REFERENCES_.195
+_OBJC_SELECTOR_REFERENCES_.197
+_OBJC_SELECTOR_REFERENCES_.199
+_OBJC_SELECTOR_REFERENCES_.201
+_OBJC_SELECTOR_REFERENCES_.203
+___block_descriptor_48_e8_32s40w_e5_v8?0l
+_OBJC_IVAR_$_DTAttributedTextContentView.customViewsForLinksIndex
+_OBJC_SELECTOR_REFERENCES_.206
+_OBJC_SELECTOR_REFERENCES_.208
+_OBJC_IVAR_$_DTAttributedTextContentView.customViews
+_OBJC_SELECTOR_REFERENCES_.210
+_OBJC_SELECTOR_REFERENCES_.212
+_OBJC_CLASSLIST_REFERENCES_$_.213
+_OBJC_SELECTOR_REFERENCES_.215
+_OBJC_SELECTOR_REFERENCES_.217
+_OBJC_SELECTOR_REFERENCES_.219
+_OBJC_SELECTOR_REFERENCES_.221
+_OBJC_SELECTOR_REFERENCES_.223
+_OBJC_SELECTOR_REFERENCES_.225
+_OBJC_SELECTOR_REFERENCES_.227
+_OBJC_SELECTOR_REFERENCES_.229
+_OBJC_SELECTOR_REFERENCES_.231
+_OBJC_SELECTOR_REFERENCES_.233
+_OBJC_SELECTOR_REFERENCES_.235
+_OBJC_SELECTOR_REFERENCES_.237
+_OBJC_SELECTOR_REFERENCES_.239
+_OBJC_SELECTOR_REFERENCES_.241
+_OBJC_SELECTOR_REFERENCES_.243
+_OBJC_IVAR_$_DTAttributedTextContentView._layouter
+_OBJC_CLASSLIST_REFERENCES_$_.244
+_OBJC_SELECTOR_REFERENCES_.246
+_OBJC_SELECTOR_REFERENCES_.248
+_OBJC_SELECTOR_REFERENCES_.250
+___block_descriptor_40_e8_32w_e74_v64?0"DTTextBlock"8{CGRect={CGPoint=dd}{CGSize=dd}}16^{CGContext=}48^B56l
+_OBJC_SELECTOR_REFERENCES_.253
+_OBJC_SELECTOR_REFERENCES_.255
+_OBJC_CLASSLIST_REFERENCES_$_.256
+_OBJC_SELECTOR_REFERENCES_.258
+_OBJC_CLASSLIST_REFERENCES_$_.259
+_OBJC_IVAR_$_DTAttributedTextContentView._accessibilityElements
+_OBJC_SELECTOR_REFERENCES_.261
+_OBJC_SELECTOR_REFERENCES_.263
+_OBJC_SELECTOR_REFERENCES_.265
+_OBJC_SELECTOR_REFERENCES_.267
+___block_descriptor_40_e8_32s_e15_B32?08Q16^B24l
+_OBJC_SELECTOR_REFERENCES_.270
+_OBJC_CLASSLIST_REFERENCES_$_.271
+_OBJC_CLASSLIST_REFERENCES_$_.272
+_OBJC_SELECTOR_REFERENCES_.274
+___block_descriptor_40_e8_32s_e26_16?0"DTTextAttachment"8l
+_OBJC_SELECTOR_REFERENCES_.277
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_DTAccessibilityViewProxyDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_DTAccessibilityViewProxyDelegate
+__OBJC_PROTOCOL_$_DTAccessibilityViewProxyDelegate
+__OBJC_LABEL_PROTOCOL_$_DTAccessibilityViewProxyDelegate
+__OBJC_CLASS_PROTOCOLS_$_DTAttributedTextContentView
+__OBJC_METACLASS_RO_$_DTAttributedTextContentView
+__OBJC_$_INSTANCE_METHODS_DTAttributedTextContentView
+__OBJC_$_INSTANCE_VARIABLES_DTAttributedTextContentView
+__OBJC_$_PROP_LIST_DTAttributedTextContentView
+__OBJC_CLASS_RO_$_DTAttributedTextContentView
+__OBJC_$_CATEGORY_INSTANCE_METHODS_DTAttributedTextContentView_$_Drawing
+__OBJC_$_CATEGORY_DTAttributedTextContentView_$_Drawing
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTAttributedTextContentView.m
+Core/Source/DTAttributedTextContentView.m
+Core/Source/DTAttributedTextContentView.h
+__52-[DTAttributedTextContentView accessibilityElements]_block_invoke
+__destroy_helper_block_e8_32s
+__copy_helper_block_e8_32s
+__59-[DTAttributedTextContentView indexOfAccessibilityElement:]_block_invoke
+__42-[DTAttributedTextContentView layoutFrame]_block_invoke
+__inline_isnormald
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/math.h
+__inline_isfinited
+__destroy_helper_block_e8_32s40w
+__copy_helper_block_e8_32s40w
+__43-[DTAttributedTextContentView relayoutText]_block_invoke
+__CGPointEqualToPoint
+__tg_trunc
+__tg_round
+__tg_floor
+-[DTHorizontalRuleHTMLElement attributesForAttributedStringRepresentation]
+-[DTHorizontalRuleHTMLElement attributedString]
+_OBJC_CLASSLIST_REFERENCES_$_.7
+__OBJC_METACLASS_RO_$_DTHorizontalRuleHTMLElement
+__OBJC_$_INSTANCE_METHODS_DTHorizontalRuleHTMLElement
+__OBJC_CLASS_RO_$_DTHorizontalRuleHTMLElement
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTHorizontalRuleHTMLElement.m
+Core/Source/DTHorizontalRuleHTMLElement.m
+-[NSMutableString(HTML) removeTrailingWhitespace]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSMutableString_$_HTML
+__OBJC_$_CATEGORY_NSMutableString_$_HTML
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/NSMutableString+HTML.m
+Core/Source/NSMutableString+HTML.m
+-[DTVideoTextAttachment initWithElement:options:]
+-[DTVideoTextAttachment stringByEncodingAsHTML]
+__OBJC_$_PROTOCOL_REFS_DTTextAttachmentHTMLPersistence
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_DTTextAttachmentHTMLPersistence
+__OBJC_$_PROTOCOL_METHOD_TYPES_DTTextAttachmentHTMLPersistence
+__OBJC_PROTOCOL_$_DTTextAttachmentHTMLPersistence
+__OBJC_LABEL_PROTOCOL_$_DTTextAttachmentHTMLPersistence
+__OBJC_CLASS_PROTOCOLS_$_DTVideoTextAttachment
+__OBJC_METACLASS_RO_$_DTVideoTextAttachment
+__OBJC_$_INSTANCE_METHODS_DTVideoTextAttachment
+__OBJC_$_PROP_LIST_DTVideoTextAttachment
+__OBJC_CLASS_RO_$_DTVideoTextAttachment
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTVideoTextAttachment.m
+Core/Source/DTVideoTextAttachment.m
+-[NSString(Paragraphs) rangeOfParagraphsContainingRange:parBegIndex:parEndIndex:]
+-[NSString(Paragraphs) indexIsAtBeginningOfParagraph:]
+-[NSString(Paragraphs) rangeOfParagraphAtIndex:]
+-[NSString(Paragraphs) numberOfParagraphs]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSString_$_Paragraphs
+__OBJC_$_CATEGORY_NSString_$_Paragraphs
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/NSString+Paragraphs.m
+Core/Source/NSString+Paragraphs.m
+-[DTAccessibilityElement initWithParentView:]
+-[DTAccessibilityElement accessibilityFrame]
+-[DTAccessibilityElement accessibilityActivationPoint]
+-[DTAccessibilityElement localCoordinateAccessibilityFrame]
+-[DTAccessibilityElement setLocalCoordinateAccessibilityFrame:]
+-[DTAccessibilityElement localCoordinateAccessibilityActivationPoint]
+-[DTAccessibilityElement setLocalCoordinateAccessibilityActivationPoint:]
+-[DTAccessibilityElement parentView]
+-[DTAccessibilityElement setParentView:]
+_OBJC_IVAR_$_DTAccessibilityElement._parentView
+_OBJC_IVAR_$_DTAccessibilityElement._localCoordinateAccessibilityActivationPoint
+_DTAccessibilityElementNullActivationPoint
+_OBJC_IVAR_$_DTAccessibilityElement._localCoordinateAccessibilityFrame
+__OBJC_METACLASS_RO_$_DTAccessibilityElement
+__OBJC_$_INSTANCE_METHODS_DTAccessibilityElement
+__OBJC_$_INSTANCE_VARIABLES_DTAccessibilityElement
+__OBJC_$_PROP_LIST_DTAccessibilityElement
+__OBJC_CLASS_RO_$_DTAccessibilityElement
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTAccessibilityElement.m
+Core/Source/DTAccessibilityElement.m
+Core/Source/DTAccessibilityElement.h
+-[DTIframeTextAttachment initWithElement:options:]
+-[DTIframeTextAttachment stringByEncodingAsHTML]
+_OBJC_CLASSLIST_REFERENCES_$_.15
+__OBJC_CLASS_PROTOCOLS_$_DTIframeTextAttachment
+__OBJC_METACLASS_RO_$_DTIframeTextAttachment
+__OBJC_$_INSTANCE_METHODS_DTIframeTextAttachment
+__OBJC_$_PROP_LIST_DTIframeTextAttachment
+__OBJC_CLASS_RO_$_DTIframeTextAttachment
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTIframeTextAttachment.m
+Core/Source/DTIframeTextAttachment.m
+-[DTCoreTextLayoutFrameAccessibilityElementGenerator accessibilityElementsForLayoutFrame:view:attachmentViewProvider:]
+-[DTCoreTextLayoutFrameAccessibilityElementGenerator accessibilityElementsInParagraphAtIndex:layoutFrame:view:attachmentViewProvider:]
+___134-[DTCoreTextLayoutFrameAccessibilityElementGenerator accessibilityElementsInParagraphAtIndex:layoutFrame:view:attachmentViewProvider:]_block_invoke
+___copy_helper_block_e8_32s40s48s56b64s
+___destroy_helper_block_e8_32s40s48s56s64s
+-[DTCoreTextLayoutFrameAccessibilityElementGenerator enumerateAccessibleGroupsInFrame:forParagraphAtIndex:usingBlock:]
+___118-[DTCoreTextLayoutFrameAccessibilityElementGenerator enumerateAccessibleGroupsInFrame:forParagraphAtIndex:usingBlock:]_block_invoke
+___copy_helper_block_e8_32s40b
+-[DTCoreTextLayoutFrameAccessibilityElementGenerator accessibilityElementForTextInAttributedString:atRange:attributes:run:view:attachmentViewProvider:]
+-[DTCoreTextLayoutFrameAccessibilityElementGenerator accessibilityElementForTextInAttributedString:atRange:attributes:run:view:]
+-[DTCoreTextLayoutFrameAccessibilityElementGenerator viewForAttachment:attachmentViewProvider:]
+-[DTCoreTextLayoutFrameAccessibilityElementGenerator frameForRuns:]
+___block_descriptor_72_e8_32s40s48s56bs64s_e53_v48?0"NSDictionary"8{_NSRange=QQ}16^B32"NSArray"40l
+___block_descriptor_48_e8_32s40bs_e41_v40?0"NSDictionary"8{_NSRange=QQ}16^B32l
+_OBJC_CLASSLIST_REFERENCES_$_.40
+__OBJC_METACLASS_RO_$_DTCoreTextLayoutFrameAccessibilityElementGenerator
+__OBJC_$_INSTANCE_METHODS_DTCoreTextLayoutFrameAccessibilityElementGenerator
+__OBJC_CLASS_RO_$_DTCoreTextLayoutFrameAccessibilityElementGenerator
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTCoreTextLayoutFrameAccessibilityElementGenerator.m
+Core/Source/DTCoreTextLayoutFrameAccessibilityElementGenerator.m
+__copy_helper_block_e8_32s40b
+__118-[DTCoreTextLayoutFrameAccessibilityElementGenerator enumerateAccessibleGroupsInFrame:forParagraphAtIndex:usingBlock:]_block_invoke
+__destroy_helper_block_e8_32s40s48s56s64s
+__copy_helper_block_e8_32s40s48s56b64s
+__134-[DTCoreTextLayoutFrameAccessibilityElementGenerator accessibilityElementsInParagraphAtIndex:layoutFrame:view:attachmentViewProvider:]_block_invoke
+-[DTCoreTextLayoutFrame initWithFrame:layouter:range:]
+-[DTCoreTextLayoutFrame initWithFrame:layouter:]
+-[DTCoreTextLayoutFrame dealloc]
+-[DTCoreTextLayoutFrame description]
+-[DTCoreTextLayoutFrame _algorithmLegacy_BaselineOriginToPositionLine:afterLine:]
+-[DTCoreTextLayoutFrame _algorithmWebKit_halfLeadingOfLine:]
+-[DTCoreTextLayoutFrame _algorithmWebKit_BaselineOriginToPositionLine:afterLine:]
+-[DTCoreTextLayoutFrame baselineOriginToPositionLine:afterLine:options:]
+-[DTCoreTextLayoutFrame baselineOriginToPositionLine:afterLine:]
+-[DTCoreTextLayoutFrame _buildLinesWithTypesetter]
+-[DTCoreTextLayoutFrame _buildLinesWithStandardFramesetter]
+-[DTCoreTextLayoutFrame _buildLines]
+-[DTCoreTextLayoutFrame lines]
+-[DTCoreTextLayoutFrame linesVisibleInRect:]
+-[DTCoreTextLayoutFrame linesContainedInRect:]
+-[DTCoreTextLayoutFrame _blockFrameForEffectiveRange:level:]
+-[DTCoreTextLayoutFrame _enumerateTextBlocksAtLevel:inRange:usingBlock:]
+-[DTCoreTextLayoutFrame _enumerateTextBlocksInRange:usingBlock:]
+-[DTCoreTextLayoutFrame _drawTextBlock:inContext:frame:]
+-[DTCoreTextLayoutFrame _drawTextBlocksInContext:inRange:]
+___58-[DTCoreTextLayoutFrame _drawTextBlocksInContext:inRange:]_block_invoke
+-[DTCoreTextLayoutFrame _setShadowInContext:fromDictionary:additionalOffset:]
+-[DTCoreTextLayoutFrame _drawHorizontalRuleFromLine:inContext:]
+-[DTCoreTextLayoutFrame drawInContext:drawImages:drawLinks:]
+-[DTCoreTextLayoutFrame _setForgroundColorInContext:forGlyphRun:options:]
+-[DTCoreTextLayoutFrame drawInContext:options:]
+___47-[DTCoreTextLayoutFrame drawInContext:options:]_block_invoke
+-[DTCoreTextLayoutFrame textAttachments]
+-[DTCoreTextLayoutFrame textAttachmentsWithPredicate:]
+-[DTCoreTextLayoutFrame visibleStringRange]
+-[DTCoreTextLayoutFrame stringIndices]
+-[DTCoreTextLayoutFrame lineIndexForGlyphIndex:]
+-[DTCoreTextLayoutFrame frameOfGlyphAtIndex:]
+-[DTCoreTextLayoutFrame frame]
+-[DTCoreTextLayoutFrame intrinsicContentFrame]
+-[DTCoreTextLayoutFrame lineContainingIndex:]
+-[DTCoreTextLayoutFrame linesInParagraphAtIndex:]
+-[DTCoreTextLayoutFrame isLineFirstInParagraph:]
+-[DTCoreTextLayoutFrame isLineLastInParagraph:]
+-[DTCoreTextLayoutFrame paragraphIndexContainingStringIndex:]
+-[DTCoreTextLayoutFrame paragraphRangeContainingStringRange:]
++[DTCoreTextLayoutFrame setShouldDrawDebugFrames:]
++[DTCoreTextLayoutFrame shouldDrawDebugFrames]
+-[DTCoreTextLayoutFrame attributedStringFragment]
+-[DTCoreTextLayoutFrame paragraphRanges]
+-[DTCoreTextLayoutFrame setNumberOfLines:]
+-[DTCoreTextLayoutFrame setLineBreakMode:]
+-[DTCoreTextLayoutFrame setTruncationString:]
+-[DTCoreTextLayoutFrame setJustifyRatio:]
+-[DTCoreTextLayoutFrame numberOfLines]
+-[DTCoreTextLayoutFrame lineBreakMode]
+-[DTCoreTextLayoutFrame truncationString]
+-[DTCoreTextLayoutFrame textBlockHandler]
+-[DTCoreTextLayoutFrame setTextBlockHandler:]
+-[DTCoreTextLayoutFrame justifyRatio]
+-[DTCoreTextLayoutFrame .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_.80
+_OBJC_SELECTOR_REFERENCES_.82
+_OBJC_SELECTOR_REFERENCES_.84
+_OBJC_SELECTOR_REFERENCES_.86
+_OBJC_SELECTOR_REFERENCES_.88
+_OBJC_CLASSLIST_REFERENCES_$_.101
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_SELECTOR_REFERENCES_.114
+_OBJC_SELECTOR_REFERENCES_.132
+__DTCoreTextLayoutFramesShouldDrawDebugFrames
+___block_descriptor_80_e8_32s_e74_v72?0"DTTextBlock"8{CGRect={CGPoint=dd}{CGSize=dd}}16{_NSRange=QQ}48^B64l
+_OBJC_SELECTOR_REFERENCES_.149
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_CLASSLIST_REFERENCES_$_.162
+_OBJC_SELECTOR_REFERENCES_.164
+_OBJC_SELECTOR_REFERENCES_.186
+_OBJC_SELECTOR_REFERENCES_.190
+__OBJC_$_PROTOCOL_REFS_DTTextAttachmentDrawing
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_DTTextAttachmentDrawing
+__OBJC_$_PROTOCOL_METHOD_TYPES_DTTextAttachmentDrawing
+__OBJC_PROTOCOL_$_DTTextAttachmentDrawing
+__OBJC_LABEL_PROTOCOL_$_DTTextAttachmentDrawing
+__OBJC_PROTOCOL_REFERENCE_$_DTTextAttachmentDrawing
+_OBJC_SELECTOR_REFERENCES_.236
+_OBJC_SELECTOR_REFERENCES_.238
+_OBJC_SELECTOR_REFERENCES_.240
+_OBJC_SELECTOR_REFERENCES_.242
+_OBJC_SELECTOR_REFERENCES_.244
+___block_descriptor_112_e8_32s40s_e29_v32?0"NSDictionary"8Q16^B24l
+_OBJC_CLASSLIST_REFERENCES_$_.254
+_OBJC_SELECTOR_REFERENCES_.256
+_OBJC_SELECTOR_REFERENCES_.260
+_OBJC_SELECTOR_REFERENCES_.262
+_OBJC_SELECTOR_REFERENCES_.264
+_OBJC_SELECTOR_REFERENCES_.266
+_OBJC_SELECTOR_REFERENCES_.268
+_OBJC_CLASSLIST_REFERENCES_$_.269
+_OBJC_SELECTOR_REFERENCES_.271
+_OBJC_SELECTOR_REFERENCES_.273
+_OBJC_SELECTOR_REFERENCES_.279
+_OBJC_SELECTOR_REFERENCES_.281
+_OBJC_SELECTOR_REFERENCES_.283
+_OBJC_SELECTOR_REFERENCES_.285
+_OBJC_CLASSLIST_REFERENCES_$_.286
+_OBJC_SELECTOR_REFERENCES_.288
+_OBJC_SELECTOR_REFERENCES_.290
+__OBJC_$_CLASS_METHODS_DTCoreTextLayoutFrame
+__OBJC_METACLASS_RO_$_DTCoreTextLayoutFrame
+__OBJC_$_INSTANCE_METHODS_DTCoreTextLayoutFrame
+_OBJC_IVAR_$_DTCoreTextLayoutFrame._textFrame
+_OBJC_IVAR_$_DTCoreTextLayoutFrame._framesetter
+_OBJC_IVAR_$_DTCoreTextLayoutFrame._requestedStringRange
+_OBJC_IVAR_$_DTCoreTextLayoutFrame._stringRange
+_OBJC_IVAR_$_DTCoreTextLayoutFrame._additionalPaddingAtBottom
+_OBJC_IVAR_$_DTCoreTextLayoutFrame._numberLinesFitInFrame
+_OBJC_IVAR_$_DTCoreTextLayoutFrame._textBlockHandler
+_OBJC_IVAR_$_DTCoreTextLayoutFrame._longestLayoutLineWidth
+_OBJC_IVAR_$_DTCoreTextLayoutFrame._numberOfLines
+_OBJC_IVAR_$_DTCoreTextLayoutFrame._lineBreakMode
+_OBJC_IVAR_$_DTCoreTextLayoutFrame._truncationString
+_OBJC_IVAR_$_DTCoreTextLayoutFrame._justifyRatio
+__OBJC_$_INSTANCE_VARIABLES_DTCoreTextLayoutFrame
+__OBJC_$_PROP_LIST_DTCoreTextLayoutFrame
+__OBJC_CLASS_RO_$_DTCoreTextLayoutFrame
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTCoreTextLayoutFrame.m
+Core/Source/DTCoreTextLayoutFrame.m
+__47-[DTCoreTextLayoutFrame drawInContext:options:]_block_invoke
+DTCoreTextModernAttributesPossible
+Core/Source/DTCompatibility.h
+__tg_fabs
+__58-[DTCoreTextLayoutFrame _drawTextBlocksInContext:inRange:]_block_invoke
++[DTTextAttachment initialize]
++[DTTextAttachment textAttachmentWithElement:options:]
+-[DTTextAttachment initWithCoder:]
+-[DTTextAttachment encodeWithCoder:]
+-[DTTextAttachment initWithElement:options:]
+-[DTTextAttachment adjustVerticalAlignmentForFont:]
+-[DTTextAttachment ascentForLayout]
+-[DTTextAttachment descentForLayout]
++[DTTextAttachment registerClass:forTagName:]
++[DTTextAttachment registeredClassForTagName:]
+-[DTTextAttachment setOriginalSize:]
+-[DTTextAttachment setDisplaySize:withMaxDisplaySize:]
+-[DTTextAttachment setDisplaySize:]
+-[DTTextAttachment originalSize]
+-[DTTextAttachment displaySize]
+-[DTTextAttachment contentURL]
+-[DTTextAttachment setContentURL:]
+-[DTTextAttachment hyperLinkURL]
+-[DTTextAttachment setHyperLinkURL:]
+-[DTTextAttachment attributes]
+-[DTTextAttachment setAttributes:]
+-[DTTextAttachment verticalAlignment]
+-[DTTextAttachment setVerticalAlignment:]
+-[DTTextAttachment hyperLinkGUID]
+-[DTTextAttachment setHyperLinkGUID:]
+-[DTTextAttachment .cxx_destruct]
+__classForTagNameLookup
+_OBJC_CLASSLIST_REFERENCES_$_.1
+_OBJC_SELECTOR_REFERENCES_.3
+_OBJC_CLASSLIST_REFERENCES_$_.4
+_OBJC_CLASSLIST_REFERENCES_$_.10
+_OBJC_CLASSLIST_REFERENCES_$_.13
+_OBJC_CLASSLIST_REFERENCES_$_.56
+__OBJC_$_CLASS_METHODS_DTTextAttachment
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSCoding
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSCoding
+__OBJC_PROTOCOL_$_NSCoding
+__OBJC_LABEL_PROTOCOL_$_NSCoding
+__OBJC_CLASS_PROTOCOLS_$_DTTextAttachment
+__OBJC_METACLASS_RO_$_DTTextAttachment
+__OBJC_$_INSTANCE_METHODS_DTTextAttachment
+_OBJC_IVAR_$_DTTextAttachment._hyperLinkURL
+_OBJC_IVAR_$_DTTextAttachment._hyperLinkGUID
+_OBJC_IVAR_$_DTTextAttachment._fontLeading
+_OBJC_IVAR_$_DTTextAttachment._fontAscent
+_OBJC_IVAR_$_DTTextAttachment._fontDescent
+_OBJC_IVAR_$_DTTextAttachment.hyperLinkGUID
+__OBJC_$_INSTANCE_VARIABLES_DTTextAttachment
+__OBJC_$_PROP_LIST_DTTextAttachment
+__OBJC_CLASS_RO_$_DTTextAttachment
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTTextAttachment.m
+Core/Source/DTTextAttachment.m
++[DTHTMLElement initialize]
++[DTHTMLElement elementWithName:attributes:options:]
+-[DTHTMLElement initWithName:attributes:options:]
+-[DTHTMLElement attributesForAttributedStringRepresentation]
+-[DTHTMLElement needsOutput]
+-[DTHTMLElement _isNotChildOfList]
+-[DTHTMLElement _addCustomHTMLAttributesToAttributedString:]
+___60-[DTHTMLElement _addCustomHTMLAttributesToAttributedString:]_block_invoke
+___copy_helper_block_e8_32s40s48s
+___destroy_helper_block_e8_32s40s48s
+-[DTHTMLElement attributedString]
+-[DTHTMLElement _parseEdgeInsetsFromStyleDictionary:forAttributesWithPrefix:writingDirection:intoEdgeInsets:]
+-[DTHTMLElement applyStyleDictionary:]
+-[DTHTMLElement listStyle]
+-[DTHTMLElement valueForKeyPathWithInheritance:]
++[DTHTMLElement attributesToIgnoreForCustomAttributesAttribute]
+-[DTHTMLElement attributeForKey:]
+-[DTHTMLElement inheritAttributesFromElement:]
+-[DTHTMLElement interpretAttributes]
+-[DTHTMLElement setTextColor:]
+-[DTHTMLElement fontVariant]
+-[DTHTMLElement setAttributes:]
+-[DTHTMLElement setTextAttachment:]
+-[DTHTMLElement setLink:]
+-[DTHTMLElement setDidOutput:]
+-[DTHTMLElement didOutput]
+-[DTHTMLElement setCurrentTextSize:]
+-[DTHTMLElement currentTextSize]
+-[DTHTMLElement parentElement]
+-[DTHTMLElement fontDescriptor]
+-[DTHTMLElement setFontDescriptor:]
+-[DTHTMLElement paragraphStyle]
+-[DTHTMLElement setParagraphStyle:]
+-[DTHTMLElement textColor]
+-[DTHTMLElement backgroundColor]
+-[DTHTMLElement setBackgroundColor:]
+-[DTHTMLElement beforeContent]
+-[DTHTMLElement setBeforeContent:]
+-[DTHTMLElement link]
+-[DTHTMLElement anchorName]
+-[DTHTMLElement setAnchorName:]
+-[DTHTMLElement underlineStyle]
+-[DTHTMLElement setUnderlineStyle:]
+-[DTHTMLElement textAttachment]
+-[DTHTMLElement strikeOut]
+-[DTHTMLElement setStrikeOut:]
+-[DTHTMLElement superscriptStyle]
+-[DTHTMLElement setSuperscriptStyle:]
+-[DTHTMLElement headerLevel]
+-[DTHTMLElement setHeaderLevel:]
+-[DTHTMLElement shadows]
+-[DTHTMLElement setShadows:]
+-[DTHTMLElement floatStyle]
+-[DTHTMLElement isColorInherited]
+-[DTHTMLElement setIsColorInherited:]
+-[DTHTMLElement preserveNewlines]
+-[DTHTMLElement setPreserveNewlines:]
+-[DTHTMLElement displayStyle]
+-[DTHTMLElement setDisplayStyle:]
+-[DTHTMLElement setFontVariant:]
+-[DTHTMLElement textScale]
+-[DTHTMLElement setTextScale:]
+-[DTHTMLElement size]
+-[DTHTMLElement setSize:]
+-[DTHTMLElement margins]
+-[DTHTMLElement setMargins:]
+-[DTHTMLElement padding]
+-[DTHTMLElement setPadding:]
+-[DTHTMLElement linkGUID]
+-[DTHTMLElement setLinkGUID:]
+-[DTHTMLElement containsAppleConvertedSpace]
+-[DTHTMLElement setContainsAppleConvertedSpace:]
+-[DTHTMLElement CSSClassNamesToIgnoreForCustomAttributes]
+-[DTHTMLElement setCSSClassNamesToIgnoreForCustomAttributes:]
+-[DTHTMLElement shouldProcessCustomHTMLAttributes]
+-[DTHTMLElement setShouldProcessCustomHTMLAttributes:]
+-[DTHTMLElement backgroundStrokeColor]
+-[DTHTMLElement setBackgroundStrokeColor:]
+-[DTHTMLElement backgroundStrokeWidth]
+-[DTHTMLElement setBackgroundStrokeWidth:]
+-[DTHTMLElement backgroundCornerRadius]
+-[DTHTMLElement setBackgroundCornerRadius:]
+-[DTHTMLElement letterSpacing]
+-[DTHTMLElement setLetterSpacing:]
+-[DTHTMLElement pTextIndent]
+-[DTHTMLElement setPTextIndent:]
+-[DTHTMLElement .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.16
+_OBJC_CLASSLIST_REFERENCES_$_.19
+_OBJC_CLASSLIST_REFERENCES_$_.32
+_OBJC_CLASSLIST_REFERENCES_$_.41
+_OBJC_CLASSLIST_REFERENCES_$_.67
+_OBJC_SELECTOR_REFERENCES_.71
+_OBJC_IVAR_$_DTHTMLElement._letterSpacing
+_OBJC_CLASSLIST_REFERENCES_$_.120
+_OBJC_CLASSLIST_REFERENCES_$_.123
+_OBJC_SELECTOR_REFERENCES_.125
+_OBJC_CLASSLIST_REFERENCES_$_.126
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_SELECTOR_REFERENCES_.139
+___block_descriptor_72_e8_32s40s48s_e25_v32?0"NSString"816^B24l
+_OBJC_CLASSLIST_REFERENCES_$_.145
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.163
+_OBJC_SELECTOR_REFERENCES_.165
+_OBJC_SELECTOR_REFERENCES_.169
+_OBJC_SELECTOR_REFERENCES_.171
+_OBJC_SELECTOR_REFERENCES_.173
+_OBJC_SELECTOR_REFERENCES_.175
+_OBJC_SELECTOR_REFERENCES_.177
+_OBJC_SELECTOR_REFERENCES_.179
+_OBJC_SELECTOR_REFERENCES_.181
+_OBJC_SELECTOR_REFERENCES_.183
+_OBJC_SELECTOR_REFERENCES_.189
+_OBJC_CLASSLIST_REFERENCES_$_.190
+_OBJC_SELECTOR_REFERENCES_.194
+_OBJC_CLASSLIST_REFERENCES_$_.195
+_OBJC_SELECTOR_REFERENCES_.205
+_OBJC_SELECTOR_REFERENCES_.249
+_OBJC_SELECTOR_REFERENCES_.251
+_OBJC_SELECTOR_REFERENCES_.257
+_OBJC_IVAR_$_DTHTMLElement._currentTextSize
+_OBJC_SELECTOR_REFERENCES_.287
+_OBJC_SELECTOR_REFERENCES_.299
+_OBJC_SELECTOR_REFERENCES_.301
+_OBJC_SELECTOR_REFERENCES_.303
+_OBJC_SELECTOR_REFERENCES_.309
+_OBJC_SELECTOR_REFERENCES_.313
+_OBJC_SELECTOR_REFERENCES_.317
+_OBJC_SELECTOR_REFERENCES_.323
+_OBJC_SELECTOR_REFERENCES_.337
+_OBJC_SELECTOR_REFERENCES_.343
+_OBJC_SELECTOR_REFERENCES_.347
+_OBJC_SELECTOR_REFERENCES_.351
+_OBJC_SELECTOR_REFERENCES_.359
+_OBJC_SELECTOR_REFERENCES_.367
+_OBJC_SELECTOR_REFERENCES_.373
+_OBJC_SELECTOR_REFERENCES_.377
+_OBJC_SELECTOR_REFERENCES_.382
+_OBJC_SELECTOR_REFERENCES_.384
+_OBJC_SELECTOR_REFERENCES_.394
+_OBJC_SELECTOR_REFERENCES_.404
+_OBJC_SELECTOR_REFERENCES_.418
+_OBJC_SELECTOR_REFERENCES_.422
+_OBJC_SELECTOR_REFERENCES_.424
+_OBJC_SELECTOR_REFERENCES_.428
+_OBJC_SELECTOR_REFERENCES_.430
+_OBJC_SELECTOR_REFERENCES_.432
+_OBJC_SELECTOR_REFERENCES_.434
+_OBJC_SELECTOR_REFERENCES_.464
+_OBJC_SELECTOR_REFERENCES_.472
+_OBJC_SELECTOR_REFERENCES_.478
+_OBJC_SELECTOR_REFERENCES_.480
+_OBJC_SELECTOR_REFERENCES_.488
+_OBJC_SELECTOR_REFERENCES_.490
+_OBJC_SELECTOR_REFERENCES_.492
+_OBJC_SELECTOR_REFERENCES_.494
+_OBJC_SELECTOR_REFERENCES_.496
+_OBJC_SELECTOR_REFERENCES_.498
+_OBJC_CLASSLIST_REFERENCES_$_.499
+_OBJC_SELECTOR_REFERENCES_.501
+_OBJC_SELECTOR_REFERENCES_.503
+_OBJC_SELECTOR_REFERENCES_.505
+_OBJC_CLASSLIST_REFERENCES_$_.508
+_OBJC_SELECTOR_REFERENCES_.510
+_OBJC_SELECTOR_REFERENCES_.514
+_OBJC_SELECTOR_REFERENCES_.516
+_OBJC_SELECTOR_REFERENCES_.518
+_OBJC_SELECTOR_REFERENCES_.520
+_OBJC_CLASSLIST_REFERENCES_$_.521
+_OBJC_SELECTOR_REFERENCES_.537
+_OBJC_SELECTOR_REFERENCES_.539
+_OBJC_SELECTOR_REFERENCES_.541
+_OBJC_SELECTOR_REFERENCES_.543
+_OBJC_SELECTOR_REFERENCES_.545
+_OBJC_SELECTOR_REFERENCES_.547
+_OBJC_SELECTOR_REFERENCES_.549
+_OBJC_SELECTOR_REFERENCES_.551
+_OBJC_SELECTOR_REFERENCES_.553
+_OBJC_SELECTOR_REFERENCES_.555
+_OBJC_SELECTOR_REFERENCES_.557
+_OBJC_SELECTOR_REFERENCES_.559
+_OBJC_SELECTOR_REFERENCES_.561
+_OBJC_SELECTOR_REFERENCES_.563
+_OBJC_SELECTOR_REFERENCES_.565
+_OBJC_SELECTOR_REFERENCES_.567
+_OBJC_SELECTOR_REFERENCES_.569
+_OBJC_SELECTOR_REFERENCES_.571
+_OBJC_SELECTOR_REFERENCES_.573
+_OBJC_SELECTOR_REFERENCES_.575
+_OBJC_SELECTOR_REFERENCES_.577
+_OBJC_SELECTOR_REFERENCES_.579
+_OBJC_SELECTOR_REFERENCES_.581
+_OBJC_SELECTOR_REFERENCES_.583
+_OBJC_SELECTOR_REFERENCES_.585
+_OBJC_SELECTOR_REFERENCES_.587
+_OBJC_IVAR_$_DTHTMLElement._CSSClassNamesToIgnoreForCustomAttributes
+__OBJC_$_CLASS_METHODS_DTHTMLElement
+__OBJC_METACLASS_RO_$_DTHTMLElement
+__OBJC_$_INSTANCE_METHODS_DTHTMLElement
+__OBJC_$_INSTANCE_VARIABLES_DTHTMLElement
+__OBJC_$_PROP_LIST_DTHTMLElement
+__OBJC_CLASS_RO_$_DTHTMLElement
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTHTMLElement.m
+Core/Source/DTHTMLElement.m
+__destroy_helper_block_e8_32s40s48s
+__copy_helper_block_e8_32s40s48s
+__60-[DTHTMLElement _addCustomHTMLAttributesToAttributedString:]_block_invoke
+-[DTAttributedTextCell initWithReuseIdentifier:]
+-[DTAttributedTextCell dealloc]
+-[DTAttributedTextCell layoutSubviews]
+-[DTAttributedTextCell _findContainingTableView]
+-[DTAttributedTextCell didMoveToSuperview]
+-[DTAttributedTextCell _groupedCellMarginWithTableWidth:]
+-[DTAttributedTextCell requiredRowHeightInTableView:]
+-[DTAttributedTextCell setSelected:animated:]
+-[DTAttributedTextCell setHTMLString:]
+-[DTAttributedTextCell setHTMLString:options:]
+-[DTAttributedTextCell setAttributedString:]
+-[DTAttributedTextCell attributedString]
+-[DTAttributedTextCell attributedTextContextView]
+-[DTAttributedTextCell setHasFixedRowHeight:]
+-[DTAttributedTextCell setTextDelegate:]
+-[DTAttributedTextCell hasFixedRowHeight]
+-[DTAttributedTextCell textDelegate]
+-[DTAttributedTextCell .cxx_destruct]
+_OBJC_IVAR_$_DTAttributedTextCell._textDelegate
+_OBJC_IVAR_$_DTAttributedTextCell._containingTableView
+_OBJC_IVAR_$_DTAttributedTextCell._hasFixedRowHeight
+_OBJC_IVAR_$_DTAttributedTextCell._attributedTextContextView
+_OBJC_CLASSLIST_REFERENCES_$_.37
+_OBJC_IVAR_$_DTAttributedTextCell._htmlHash
+_OBJC_CLASSLIST_REFERENCES_$_.61
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_CLASSLIST_REFERENCES_$_.70
+__OBJC_METACLASS_RO_$_DTAttributedTextCell
+__OBJC_$_INSTANCE_METHODS_DTAttributedTextCell
+__OBJC_$_INSTANCE_VARIABLES_DTAttributedTextCell
+__OBJC_$_PROP_LIST_DTAttributedTextCell
+__OBJC_CLASS_RO_$_DTAttributedTextCell
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTAttributedTextCell.m
+Core/Source/DTAttributedTextCell.m
+-[DTCoreTextLayouter initWithAttributedString:]
+-[DTCoreTextLayouter dealloc]
+-[DTCoreTextLayouter layoutFrameWithRect:range:]
+-[DTCoreTextLayouter _discardFramesetter]
+-[DTCoreTextLayouter framesetter]
+-[DTCoreTextLayouter setAttributedString:]
+-[DTCoreTextLayouter attributedString]
+-[DTCoreTextLayouter setShouldCacheLayoutFrames:]
+-[DTCoreTextLayouter shouldCacheLayoutFrames]
+-[DTCoreTextLayouter frames]
+-[DTCoreTextLayouter setFrames:]
+-[DTCoreTextLayouter .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.22
+__OBJC_METACLASS_RO_$_DTCoreTextLayouter
+__OBJC_$_INSTANCE_METHODS_DTCoreTextLayouter
+_OBJC_IVAR_$_DTCoreTextLayouter._framesetter
+_OBJC_IVAR_$_DTCoreTextLayouter._attributedString
+_OBJC_IVAR_$_DTCoreTextLayouter._shouldCacheLayoutFrames
+_OBJC_IVAR_$_DTCoreTextLayouter._layoutFrameCache
+_OBJC_IVAR_$_DTCoreTextLayouter._frames
+__OBJC_$_INSTANCE_VARIABLES_DTCoreTextLayouter
+__OBJC_$_PROP_LIST_DTCoreTextLayouter
+__OBJC_CLASS_RO_$_DTCoreTextLayouter
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTCoreTextLayouter.m
+Core/Source/DTCoreTextLayouter.m
++[DTCoreTextFontDescriptor initialize]
++[DTCoreTextFontDescriptor asyncPreloadFontLookupTable]
+___55+[DTCoreTextFontDescriptor asyncPreloadFontLookupTable]_block_invoke
+___55+[DTCoreTextFontDescriptor asyncPreloadFontLookupTable]_block_invoke_2
++[DTCoreTextFontDescriptor _createDictionaryOfAllAvailableFontOverrideNamesWithCompletion:]
+___91+[DTCoreTextFontDescriptor _createDictionaryOfAllAvailableFontOverrideNamesWithCompletion:]_block_invoke
+___copy_helper_block_e8_32b
++[DTCoreTextFontDescriptor setFallbackFontFamily:]
++[DTCoreTextFontDescriptor fallbackFontFamily]
++[DTCoreTextFontDescriptor setSmallCapsFontName:forFontFamily:bold:italic:]
++[DTCoreTextFontDescriptor smallCapsFontNameforFontFamily:bold:italic:]
++[DTCoreTextFontDescriptor setOverrideFontName:forFontFamily:bold:italic:]
++[DTCoreTextFontDescriptor overrideFontNameforFontFamily:bold:italic:]
++[DTCoreTextFontDescriptor fontDescriptorWithFontAttributes:]
++[DTCoreTextFontDescriptor fontDescriptorForCTFont:]
+-[DTCoreTextFontDescriptor initWithFontAttributes:]
+-[DTCoreTextFontDescriptor initWithCTFontDescriptor:]
+-[DTCoreTextFontDescriptor initWithCTFont:]
+-[DTCoreTextFontDescriptor description]
+-[DTCoreTextFontDescriptor fontAttributes]
+-[DTCoreTextFontDescriptor fontAttributesWithOverrideFontName:]
+-[DTCoreTextFontDescriptor supportsNativeSmallCaps]
+-[DTCoreTextFontDescriptor _fontIsOblique:]
+-[DTCoreTextFontDescriptor _findOrMakeMatchingFont]
+-[DTCoreTextFontDescriptor newMatchingFont]
+-[DTCoreTextFontDescriptor hash]
+-[DTCoreTextFontDescriptor isEqual:]
+-[DTCoreTextFontDescriptor encodeWithCoder:]
+-[DTCoreTextFontDescriptor initWithCoder:]
+-[DTCoreTextFontDescriptor copyWithZone:]
+-[DTCoreTextFontDescriptor setStylisticClass:]
+-[DTCoreTextFontDescriptor setFontAttributes:]
+-[DTCoreTextFontDescriptor symbolicTraits]
+-[DTCoreTextFontDescriptor setSymbolicTraits:]
+-[DTCoreTextFontDescriptor cssStyleRepresentation]
+-[DTCoreTextFontDescriptor setBoldTrait:]
+-[DTCoreTextFontDescriptor boldTrait]
+-[DTCoreTextFontDescriptor setItalicTrait:]
+-[DTCoreTextFontDescriptor italicTrait]
+-[DTCoreTextFontDescriptor setExpandedTrait:]
+-[DTCoreTextFontDescriptor expandedTrait]
+-[DTCoreTextFontDescriptor setCondensedTrait:]
+-[DTCoreTextFontDescriptor condensedTrait]
+-[DTCoreTextFontDescriptor setMonospaceTrait:]
+-[DTCoreTextFontDescriptor monospaceTrait]
+-[DTCoreTextFontDescriptor setVerticalTrait:]
+-[DTCoreTextFontDescriptor verticalTrait]
+-[DTCoreTextFontDescriptor setUIoptimizedTrait:]
+-[DTCoreTextFontDescriptor UIoptimizedTrait]
+-[DTCoreTextFontDescriptor setPointSize:]
+-[DTCoreTextFontDescriptor fontFamily]
+-[DTCoreTextFontDescriptor setFontFamily:]
+-[DTCoreTextFontDescriptor fontName]
+-[DTCoreTextFontDescriptor setFontName:]
+-[DTCoreTextFontDescriptor pointSize]
+-[DTCoreTextFontDescriptor stylisticClass]
+-[DTCoreTextFontDescriptor smallCapsFeature]
+-[DTCoreTextFontDescriptor setSmallCapsFeature:]
+-[DTCoreTextFontDescriptor .cxx_destruct]
+__fontCache
+__fontOverrides
+__fallbackFontFamily
+_OBJC_CLASSLIST_REFERENCES_$_.5
+__needsChineseFontCascadeFix
+___block_descriptor_32_e22_v16?0"NSDictionary"8l
+___block_descriptor_32_e35_v32?0"NSString"8"NSString"16^B24l
+___block_literal_global.41
+_OBJC_CLASSLIST_REFERENCES_$_.48
+_OBJC_CLASSLIST_REFERENCES_$_.57
+_OBJC_CLASSLIST_REFERENCES_$_.68
+___block_descriptor_40_e8_32bs_e5_v8?0l
+_OBJC_CLASSLIST_REFERENCES_$_.86
+_OBJC_CLASSLIST_REFERENCES_$_.91
+_OBJC_CLASSLIST_REFERENCES_$_.127
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_CLASSLIST_REFERENCES_$_.158
+_OBJC_SELECTOR_REFERENCES_.207
+_OBJC_SELECTOR_REFERENCES_.209
+_OBJC_SELECTOR_REFERENCES_.213
+__OBJC_$_CLASS_METHODS_DTCoreTextFontDescriptor
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSCopying
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSCopying
+__OBJC_PROTOCOL_$_NSCopying
+__OBJC_LABEL_PROTOCOL_$_NSCopying
+__OBJC_CLASS_PROTOCOLS_$_DTCoreTextFontDescriptor
+__OBJC_METACLASS_RO_$_DTCoreTextFontDescriptor
+__OBJC_$_INSTANCE_METHODS_DTCoreTextFontDescriptor
+_OBJC_IVAR_$_DTCoreTextFontDescriptor._fontFamily
+_OBJC_IVAR_$_DTCoreTextFontDescriptor._fontName
+_OBJC_IVAR_$_DTCoreTextFontDescriptor._pointSize
+_OBJC_IVAR_$_DTCoreTextFontDescriptor._stylisticTraits
+_OBJC_IVAR_$_DTCoreTextFontDescriptor._stylisticClass
+_OBJC_IVAR_$_DTCoreTextFontDescriptor._smallCapsFeature
+__OBJC_$_INSTANCE_VARIABLES_DTCoreTextFontDescriptor
+__OBJC_$_PROP_LIST_DTCoreTextFontDescriptor
+__OBJC_CLASS_RO_$_DTCoreTextFontDescriptor
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTCoreTextFontDescriptor.m
+Core/Source/DTCoreTextFontDescriptor.m
+__copy_helper_block_e8_32b
+__91+[DTCoreTextFontDescriptor _createDictionaryOfAllAvailableFontOverrideNamesWithCompletion:]_block_invoke
+__55+[DTCoreTextFontDescriptor asyncPreloadFontLookupTable]_block_invoke_2
+__55+[DTCoreTextFontDescriptor asyncPreloadFontLookupTable]_block_invoke
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTCoreTextConstants.m
+-[DTCSSListStyle initWithStyles:]
+-[DTCSSListStyle initWithCoder:]
+-[DTCSSListStyle encodeWithCoder:]
++[DTCSSListStyle listStyleTypeFromString:]
++[DTCSSListStyle listStylePositionFromString:]
+-[DTCSSListStyle setTypeWithString:]
+-[DTCSSListStyle setPositionWithString:]
+-[DTCSSListStyle updateFromStyleDictionary:]
+-[DTCSSListStyle description]
+-[DTCSSListStyle hash]
+-[DTCSSListStyle isEqualToListStyle:]
+-[DTCSSListStyle copyWithZone:]
+-[DTCSSListStyle prefixWithCounter:]
+-[DTCSSListStyle isOrdered]
+-[DTCSSListStyle inherit]
+-[DTCSSListStyle setInherit:]
+-[DTCSSListStyle type]
+-[DTCSSListStyle setType:]
+-[DTCSSListStyle position]
+-[DTCSSListStyle setPosition:]
+-[DTCSSListStyle imageName]
+-[DTCSSListStyle setImageName:]
+-[DTCSSListStyle startingItemNumber]
+-[DTCSSListStyle setStartingItemNumber:]
+-[DTCSSListStyle .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.78
+_OBJC_CLASSLIST_REFERENCES_$_.95
+_OBJC_CLASSLIST_REFERENCES_$_.142
+__OBJC_$_CLASS_METHODS_DTCSSListStyle
+__OBJC_CLASS_PROTOCOLS_$_DTCSSListStyle
+__OBJC_METACLASS_RO_$_DTCSSListStyle
+__OBJC_$_INSTANCE_METHODS_DTCSSListStyle
+_OBJC_IVAR_$_DTCSSListStyle._inherit
+_OBJC_IVAR_$_DTCSSListStyle._type
+_OBJC_IVAR_$_DTCSSListStyle._position
+_OBJC_IVAR_$_DTCSSListStyle._imageName
+_OBJC_IVAR_$_DTCSSListStyle._startingItemNumber
+__OBJC_$_INSTANCE_VARIABLES_DTCSSListStyle
+__OBJC_$_PROP_LIST_DTCSSListStyle
+__OBJC_CLASS_RO_$_DTCSSListStyle
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTCSSListStyle.m
+Core/Source/DTCSSListStyle.m
++[UIFont(DTCoreText) fontWithCTFont:]
+__OBJC_$_CATEGORY_CLASS_METHODS_UIFont_$_DTCoreText
+__OBJC_$_CATEGORY_UIFont_$_DTCoreText
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/UIFont+DTCoreText.m
+Core/Source/UIFont+DTCoreText.m
+-[DTHTMLAttributedStringBuilder initWithHTML:options:documentAttributes:]
+-[DTHTMLAttributedStringBuilder dealloc]
+-[DTHTMLAttributedStringBuilder _buildString]
+___45-[DTHTMLAttributedStringBuilder _buildString]_block_invoke
+___copy_helper_block_e8_32r40w
+___destroy_helper_block_e8_32r40w
+-[DTHTMLAttributedStringBuilder generatedAttributedString]
+-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]
+___58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke
+___58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke.101
+___58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_2
+___58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_3
+___58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_4
+___58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_5
+___58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_6
+___58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_7
+___58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_8
+___58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_9
+___58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_10
+-[DTHTMLAttributedStringBuilder _registerTagEndHandlers]
+___56-[DTHTMLAttributedStringBuilder _registerTagEndHandlers]_block_invoke
+___56-[DTHTMLAttributedStringBuilder _registerTagEndHandlers]_block_invoke_2
+___56-[DTHTMLAttributedStringBuilder _registerTagEndHandlers]_block_invoke_3
+___56-[DTHTMLAttributedStringBuilder _registerTagEndHandlers]_block_invoke_4
+-[DTHTMLAttributedStringBuilder parser:didStartElement:attributes:]
+___67-[DTHTMLAttributedStringBuilder parser:didStartElement:attributes:]_block_invoke
+-[DTHTMLAttributedStringBuilder parser:didEndElement:]
+___54-[DTHTMLAttributedStringBuilder parser:didEndElement:]_block_invoke
+___54-[DTHTMLAttributedStringBuilder parser:didEndElement:]_block_invoke_2
+-[DTHTMLAttributedStringBuilder parser:foundCharacters:]
+___56-[DTHTMLAttributedStringBuilder parser:foundCharacters:]_block_invoke
+___56-[DTHTMLAttributedStringBuilder parser:foundCharacters:]_block_invoke_2
+-[DTHTMLAttributedStringBuilder parser:foundCDATA:]
+___51-[DTHTMLAttributedStringBuilder parser:foundCDATA:]_block_invoke
+-[DTHTMLAttributedStringBuilder parserDidEndDocument:]
+___54-[DTHTMLAttributedStringBuilder parserDidEndDocument:]_block_invoke
+___54-[DTHTMLAttributedStringBuilder parserDidEndDocument:]_block_invoke_2
+-[DTHTMLAttributedStringBuilder parser:parseErrorOccurred:]
+-[DTHTMLAttributedStringBuilder abortParsing]
+-[DTHTMLAttributedStringBuilder willFlushCallback]
+-[DTHTMLAttributedStringBuilder setWillFlushCallback:]
+-[DTHTMLAttributedStringBuilder shouldKeepDocumentNodeTree]
+-[DTHTMLAttributedStringBuilder setShouldKeepDocumentNodeTree:]
+-[DTHTMLAttributedStringBuilder parseErrorCallback]
+-[DTHTMLAttributedStringBuilder setParseErrorCallback:]
+-[DTHTMLAttributedStringBuilder .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.21
+_OBJC_CLASSLIST_REFERENCES_$_.29
+_OBJC_CLASSLIST_REFERENCES_$_.39
+___block_descriptor_48_e8_32r40w_e5_v8?0l
+___block_descriptor_40_e8_32s_e5_v8?0l
+_OBJC_CLASSLIST_REFERENCES_$_.122
+_OBJC_SELECTOR_REFERENCES_.131
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_CLASSLIST_REFERENCES_$_.148
+_OBJC_CLASSLIST_REFERENCES_$_.196
+_OBJC_SELECTOR_REFERENCES_.198
+_OBJC_SELECTOR_REFERENCES_.200
+_OBJC_CLASSLIST_REFERENCES_$_.203
+_OBJC_SELECTOR_REFERENCES_.252
+_OBJC_SELECTOR_REFERENCES_.254
+_OBJC_CLASSLIST_REFERENCES_$_.263
+_OBJC_SELECTOR_REFERENCES_.269
+_OBJC_SELECTOR_REFERENCES_.275
+_OBJC_CLASSLIST_REFERENCES_$_.278
+_OBJC_SELECTOR_REFERENCES_.280
+_OBJC_SELECTOR_REFERENCES_.282
+_OBJC_SELECTOR_REFERENCES_.284
+_OBJC_SELECTOR_REFERENCES_.286
+_OBJC_SELECTOR_REFERENCES_.292
+_OBJC_SELECTOR_REFERENCES_.294
+_OBJC_SELECTOR_REFERENCES_.296
+_OBJC_SELECTOR_REFERENCES_.298
+_OBJC_SELECTOR_REFERENCES_.300
+_OBJC_SELECTOR_REFERENCES_.302
+_OBJC_SELECTOR_REFERENCES_.304
+_OBJC_SELECTOR_REFERENCES_.306
+_OBJC_SELECTOR_REFERENCES_.308
+_OBJC_SELECTOR_REFERENCES_.310
+_OBJC_CLASSLIST_REFERENCES_$_.311
+___block_descriptor_56_e8_32s40s48s_e5_v8?0l
+_OBJC_CLASSLIST_REFERENCES_$_.314
+_OBJC_SELECTOR_REFERENCES_.316
+_OBJC_SELECTOR_REFERENCES_.318
+__OBJC_$_PROTOCOL_REFS_DTHTMLParserDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_DTHTMLParserDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_DTHTMLParserDelegate
+__OBJC_PROTOCOL_$_DTHTMLParserDelegate
+__OBJC_LABEL_PROTOCOL_$_DTHTMLParserDelegate
+__OBJC_CLASS_PROTOCOLS_$_DTHTMLAttributedStringBuilder
+__OBJC_METACLASS_RO_$_DTHTMLAttributedStringBuilder
+__OBJC_$_INSTANCE_METHODS_DTHTMLAttributedStringBuilder
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._data
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._options
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._shouldKeepDocumentNodeTree
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._textScale
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._defaultLinkColor
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._globalStyleSheet
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._baseURL
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._defaultFontDescriptor
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._defaultParagraphStyle
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._defaultTag
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._tmpString
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._stringAssemblyQueue
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._stringAssemblyGroup
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._dataParsingQueue
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._dataParsingGroup
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._treeBuildingQueue
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._treeBuildingGroup
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._tagStartHandlers
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._tagEndHandlers
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._willFlushCallback
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._parseErrorCallback
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._shouldProcessCustomHTMLAttributes
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._rootNode
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._bodyElement
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._currentTag
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._ignoreParseEvents
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._ignoreInlineStyles
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._preserverDocumentTrailingSpaces
+_OBJC_IVAR_$_DTHTMLAttributedStringBuilder._parser
+__OBJC_$_INSTANCE_VARIABLES_DTHTMLAttributedStringBuilder
+__OBJC_$_PROP_LIST_DTHTMLAttributedStringBuilder
+__OBJC_CLASS_RO_$_DTHTMLAttributedStringBuilder
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTHTMLAttributedStringBuilder.m
+Core/Source/DTHTMLAttributedStringBuilder.m
+__54-[DTHTMLAttributedStringBuilder parserDidEndDocument:]_block_invoke_2
+__54-[DTHTMLAttributedStringBuilder parserDidEndDocument:]_block_invoke
+__51-[DTHTMLAttributedStringBuilder parser:foundCDATA:]_block_invoke
+__56-[DTHTMLAttributedStringBuilder parser:foundCharacters:]_block_invoke_2
+__56-[DTHTMLAttributedStringBuilder parser:foundCharacters:]_block_invoke
+__54-[DTHTMLAttributedStringBuilder parser:didEndElement:]_block_invoke_2
+__54-[DTHTMLAttributedStringBuilder parser:didEndElement:]_block_invoke
+__67-[DTHTMLAttributedStringBuilder parser:didStartElement:attributes:]_block_invoke
+__56-[DTHTMLAttributedStringBuilder _registerTagEndHandlers]_block_invoke_4
+__56-[DTHTMLAttributedStringBuilder _registerTagEndHandlers]_block_invoke_3
+__56-[DTHTMLAttributedStringBuilder _registerTagEndHandlers]_block_invoke_2
+__56-[DTHTMLAttributedStringBuilder _registerTagEndHandlers]_block_invoke
+__58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_10
+__58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_9
+__58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_8
+__58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_7
+__58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_6
+__58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_5
+__58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_4
+__58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_3
+__58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke_2
+__58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke.101
+__58-[DTHTMLAttributedStringBuilder _registerTagStartHandlers]_block_invoke
+__destroy_helper_block_e8_32r40w
+__copy_helper_block_e8_32r40w
+__45-[DTHTMLAttributedStringBuilder _buildString]_block_invoke
++[DTCSSStylesheet defaultStyleSheet]
+-[DTCSSStylesheet initWithStyleBlock:]
+-[DTCSSStylesheet initWithStylesheet:]
+-[DTCSSStylesheet description]
+-[DTCSSStylesheet _uncompressShorthands:]
+-[DTCSSStylesheet _addStyleRule:withSelector:]
+-[DTCSSStylesheet parseStyleBlock:]
+-[DTCSSStylesheet mergeStylesheet:]
+-[DTCSSStylesheet _addStyles:withSelector:]
+-[DTCSSStylesheet mergedStyleDictionaryForElement:matchedSelectors:ignoreInlineStyle:]
+___86-[DTCSSStylesheet mergedStyleDictionaryForElement:matchedSelectors:ignoreInlineStyle:]_block_invoke
+-[DTCSSStylesheet styles]
+-[DTCSSStylesheet orderedSelectors]
+-[DTCSSStylesheet matchingComplexCascadingSelectorsForElement:]
+-[DTCSSStylesheet _weightForSelector:]
+-[DTCSSStylesheet copyWithZone:]
+-[DTCSSStylesheet .cxx_destruct]
+_defaultStyleSheet.defaultDTCSSStylesheet
+_OBJC_CLASSLIST_REFERENCES_$_.11
+_OBJC_CLASSLIST_REFERENCES_$_.14
+_OBJC_CLASSLIST_REFERENCES_$_.20
+_OBJC_CLASSLIST_REFERENCES_$_.49
+_OBJC_CLASSLIST_REFERENCES_$_.139
+_OBJC_SELECTOR_REFERENCES_.141
+_OBJC_SELECTOR_REFERENCES_.167
+_OBJC_SELECTOR_REFERENCES_.185
+_OBJC_SELECTOR_REFERENCES_.187
+_OBJC_SELECTOR_REFERENCES_.211
+_OBJC_SELECTOR_REFERENCES_.245
+_OBJC_SELECTOR_REFERENCES_.247
+_OBJC_SELECTOR_REFERENCES_.259
+_OBJC_CLASSLIST_REFERENCES_$_.266
+_OBJC_SELECTOR_REFERENCES_.272
+_OBJC_SELECTOR_REFERENCES_.276
+___block_descriptor_40_e8_32s_e31_q24?0"NSString"8"NSString"16l
+_OBJC_CLASSLIST_REFERENCES_$_.288
+__OBJC_$_CLASS_METHODS_DTCSSStylesheet
+__OBJC_CLASS_PROTOCOLS_$_DTCSSStylesheet
+__OBJC_METACLASS_RO_$_DTCSSStylesheet
+__OBJC_$_INSTANCE_METHODS_DTCSSStylesheet
+_OBJC_IVAR_$_DTCSSStylesheet._styles
+_OBJC_IVAR_$_DTCSSStylesheet._orderedSelectorWeights
+_OBJC_IVAR_$_DTCSSStylesheet._orderedSelectors
+__OBJC_$_INSTANCE_VARIABLES_DTCSSStylesheet
+__OBJC_CLASS_RO_$_DTCSSStylesheet
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTCSSStylesheet.m
+Core/Source/DTCSSStylesheet.m
+__86-[DTCSSStylesheet mergedStyleDictionaryForElement:matchedSelectors:ignoreInlineStyle:]_block_invoke
+-[UIColor(HTML) alphaComponent]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIColor_$_HTML
+__OBJC_$_CATEGORY_UIColor_$_HTML
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTColor+Compatibility.m
+Core/Source/DTColor+Compatibility.m
+-[DTListItemHTMLElement _indexOfListItemInListRoot:]
+-[DTListItemHTMLElement _sumOfListIndents]
+-[DTListItemHTMLElement applyStyleDictionary:]
+-[DTListItemHTMLElement _listPrefix]
+-[DTListItemHTMLElement attributedString]
+_OBJC_CLASSLIST_REFERENCES_$_.69
+_OBJC_CLASSLIST_REFERENCES_$_.100
+_OBJC_CLASSLIST_REFERENCES_$_.119
+_OBJC_SELECTOR_REFERENCES_.127
+__OBJC_METACLASS_RO_$_DTListItemHTMLElement
+__OBJC_$_INSTANCE_METHODS_DTListItemHTMLElement
+__OBJC_CLASS_RO_$_DTListItemHTMLElement
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTListItemHTMLElement.m
+Core/Source/DTListItemHTMLElement.m
+-[DTCoreTextLayoutLine initWithLine:]
+-[DTCoreTextLayoutLine initWithLine:stringLocationOffset:]
+-[DTCoreTextLayoutLine dealloc]
+-[DTCoreTextLayoutLine description]
+-[DTCoreTextLayoutLine stringRange]
+-[DTCoreTextLayoutLine numberOfGlyphs]
+-[DTCoreTextLayoutLine drawInContext:]
+-[DTCoreTextLayoutLine newPathWithGlyphs]
+-[DTCoreTextLayoutLine justifiedLineWithFactor:justificationWidth:]
+-[DTCoreTextLayoutLine stringIndices]
+-[DTCoreTextLayoutLine frameOfGlyphAtIndex:]
+-[DTCoreTextLayoutLine glyphRunsWithRange:]
+-[DTCoreTextLayoutLine frameOfGlyphsWithRange:]
+-[DTCoreTextLayoutLine imageBoundsInContext:]
+-[DTCoreTextLayoutLine offsetForStringIndex:]
+-[DTCoreTextLayoutLine stringIndexForPosition:]
+-[DTCoreTextLayoutLine _calculateMetrics]
+-[DTCoreTextLayoutLine isHorizontalRule]
+-[DTCoreTextLayoutLine _scanGlyphRunsForValues]
+-[DTCoreTextLayoutLine glyphRuns]
+-[DTCoreTextLayoutLine frame]
+-[DTCoreTextLayoutLine width]
+-[DTCoreTextLayoutLine attachments]
+-[DTCoreTextLayoutLine ascent]
+-[DTCoreTextLayoutLine setAscent:]
+-[DTCoreTextLayoutLine descent]
+-[DTCoreTextLayoutLine leading]
+-[DTCoreTextLayoutLine underlineOffset]
+-[DTCoreTextLayoutLine lineHeight]
+-[DTCoreTextLayoutLine paragraphStyle]
+-[DTCoreTextLayoutLine textBlocks]
+-[DTCoreTextLayoutLine trailingWhitespaceWidth]
+-[DTCoreTextLayoutLine writingDirectionIsRightToLeft]
+-[DTCoreTextLayoutLine setWritingDirectionIsRightToLeft:]
+-[DTCoreTextLayoutLine setFrame:]
+-[DTCoreTextLayoutLine setGlyphRuns:]
+-[DTCoreTextLayoutLine baselineOrigin]
+-[DTCoreTextLayoutLine setBaselineOrigin:]
+-[DTCoreTextLayoutLine stringLocationOffset]
+-[DTCoreTextLayoutLine .cxx_destruct]
+__OBJC_METACLASS_RO_$_DTCoreTextLayoutLine
+__OBJC_$_INSTANCE_METHODS_DTCoreTextLayoutLine
+_OBJC_IVAR_$_DTCoreTextLayoutLine._frame
+_OBJC_IVAR_$_DTCoreTextLayoutLine._line
+_OBJC_IVAR_$_DTCoreTextLayoutLine._baselineOrigin
+_OBJC_IVAR_$_DTCoreTextLayoutLine._ascent
+_OBJC_IVAR_$_DTCoreTextLayoutLine._descent
+_OBJC_IVAR_$_DTCoreTextLayoutLine._leading
+_OBJC_IVAR_$_DTCoreTextLayoutLine._width
+_OBJC_IVAR_$_DTCoreTextLayoutLine._trailingWhitespaceWidth
+_OBJC_IVAR_$_DTCoreTextLayoutLine._underlineOffset
+_OBJC_IVAR_$_DTCoreTextLayoutLine._lineHeight
+_OBJC_IVAR_$_DTCoreTextLayoutLine._glyphRuns
+_OBJC_IVAR_$_DTCoreTextLayoutLine._didCalculateMetrics
+_OBJC_IVAR_$_DTCoreTextLayoutLine._writingDirectionIsRightToLeft
+_OBJC_IVAR_$_DTCoreTextLayoutLine._needsToDetectWritingDirection
+_OBJC_IVAR_$_DTCoreTextLayoutLine._hasScannedGlyphRunsForValues
+__OBJC_$_INSTANCE_VARIABLES_DTCoreTextLayoutLine
+__OBJC_$_PROP_LIST_DTCoreTextLayoutLine
+__OBJC_CLASS_RO_$_DTCoreTextLayoutLine
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTCoreTextLayoutLine.m
+Core/Source/DTCoreTextLayoutLine.m
+-[DTCoreTextGlyphRun initWithRun:layoutLine:offset:]
+-[DTCoreTextGlyphRun dealloc]
+-[DTCoreTextGlyphRun description]
+-[DTCoreTextGlyphRun drawInContext:]
+-[DTCoreTextGlyphRun drawDecorationInContext:]
+-[DTCoreTextGlyphRun newPathWithGlyphs]
+-[DTCoreTextGlyphRun calculateMetrics]
+-[DTCoreTextGlyphRun frameOfGlyphAtIndex:]
+-[DTCoreTextGlyphRun stringIndices]
+-[DTCoreTextGlyphRun imageBoundsInContext:]
+-[DTCoreTextGlyphRun stringRange]
+-[DTCoreTextGlyphRun fixMetricsFromAttachment]
+-[DTCoreTextGlyphRun isTrailingWhitespace]
+-[DTCoreTextGlyphRun numberOfGlyphs]
+-[DTCoreTextGlyphRun attributes]
+-[DTCoreTextGlyphRun attachment]
+-[DTCoreTextGlyphRun isHyperlink]
+-[DTCoreTextGlyphRun frame]
+-[DTCoreTextGlyphRun width]
+-[DTCoreTextGlyphRun ascent]
+-[DTCoreTextGlyphRun descent]
+-[DTCoreTextGlyphRun leading]
+-[DTCoreTextGlyphRun writingDirectionIsRightToLeft]
+-[DTCoreTextGlyphRun .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.43
+__OBJC_METACLASS_RO_$_DTCoreTextGlyphRun
+__OBJC_$_INSTANCE_METHODS_DTCoreTextGlyphRun
+_OBJC_IVAR_$_DTCoreTextGlyphRun._run
+_OBJC_IVAR_$_DTCoreTextGlyphRun._frame
+_OBJC_IVAR_$_DTCoreTextGlyphRun._offset
+_OBJC_IVAR_$_DTCoreTextGlyphRun._ascent
+_OBJC_IVAR_$_DTCoreTextGlyphRun._descent
+_OBJC_IVAR_$_DTCoreTextGlyphRun._leading
+_OBJC_IVAR_$_DTCoreTextGlyphRun._width
+_OBJC_IVAR_$_DTCoreTextGlyphRun._writingDirectionIsRightToLeft
+_OBJC_IVAR_$_DTCoreTextGlyphRun._isTrailingWhitespace
+_OBJC_IVAR_$_DTCoreTextGlyphRun._numberOfGlyphs
+_OBJC_IVAR_$_DTCoreTextGlyphRun._glyphPositionPoints
+_OBJC_IVAR_$_DTCoreTextGlyphRun._line
+_OBJC_IVAR_$_DTCoreTextGlyphRun._attributes
+_OBJC_IVAR_$_DTCoreTextGlyphRun._stringIndices
+_OBJC_IVAR_$_DTCoreTextGlyphRun._attachment
+_OBJC_IVAR_$_DTCoreTextGlyphRun._hyperlink
+_OBJC_IVAR_$_DTCoreTextGlyphRun._didCheckForAttachmentInAttributes
+_OBJC_IVAR_$_DTCoreTextGlyphRun._didCheckForHyperlinkInAttributes
+_OBJC_IVAR_$_DTCoreTextGlyphRun._didCalculateMetrics
+_OBJC_IVAR_$_DTCoreTextGlyphRun._didDetermineTrailingWhitespace
+__OBJC_$_INSTANCE_VARIABLES_DTCoreTextGlyphRun
+__OBJC_$_PROP_LIST_DTCoreTextGlyphRun
+__OBJC_CLASS_RO_$_DTCoreTextGlyphRun
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTCoreTextGlyphRun.m
+Core/Source/DTCoreTextGlyphRun.m
+DTCoreTextDrawsUnderlinesWithGlyphs
+-[NSCoder(DTCompatibility) encodeDTEdgeInsets:forKey:]
+-[NSCoder(DTCompatibility) decodeDTEdgeInsetsForKey:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSCoder_$_DTCompatibility
+__OBJC_$_CATEGORY_NSCoder_$_DTCompatibility
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/NSCoder+DTCompatibility.m
+Core/Source/NSCoder+DTCompatibility.m
+-[DTImageTextAttachment initWithCoder:]
+-[DTImageTextAttachment encodeWithCoder:]
+-[DTImageTextAttachment initWithElement:options:]
+-[DTImageTextAttachment initWithImage:]
+-[DTImageTextAttachment _decodeImageFromElement:options:]
+-[DTImageTextAttachment _updateSizesFromImage:]
++[DTImageTextAttachment sharedImageCache]
+___41+[DTImageTextAttachment sharedImageCache]_block_invoke
+-[DTImageTextAttachment dataURLRepresentation]
+-[DTImageTextAttachment drawInRect:context:]
+-[DTImageTextAttachment stringByEncodingAsHTML]
+-[DTImageTextAttachment image]
+-[DTImageTextAttachment setImage:]
+-[DTImageTextAttachment setDisplaySize:]
+-[DTImageTextAttachment .cxx_destruct]
+_imageCache
+_OBJC_IVAR_$_DTImageTextAttachment._image
+_OBJC_CLASSLIST_REFERENCES_$_.35
+_OBJC_CLASSLIST_REFERENCES_$_.38
+_OBJC_CLASSLIST_REFERENCES_$_.47
+_OBJC_CLASSLIST_REFERENCES_$_.87
+_OBJC_CLASSLIST_REFERENCES_$_.96
+_OBJC_CLASSLIST_REFERENCES_$_.97
+_sharedImageCache.onceToken
+_OBJC_CLASSLIST_REFERENCES_$_.125
+_OBJC_CLASSLIST_REFERENCES_$_.138
+__OBJC_$_CLASS_METHODS_DTImageTextAttachment
+__OBJC_CLASS_PROTOCOLS_$_DTImageTextAttachment
+__OBJC_METACLASS_RO_$_DTImageTextAttachment
+__OBJC_$_INSTANCE_METHODS_DTImageTextAttachment
+__OBJC_$_INSTANCE_VARIABLES_DTImageTextAttachment
+__OBJC_$_PROP_LIST_DTImageTextAttachment
+__OBJC_CLASS_RO_$_DTImageTextAttachment
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTImageTextAttachment.m
+Core/Source/DTImageTextAttachment.m
+__41+[DTImageTextAttachment sharedImageCache]_block_invoke
+-[DTTextHTMLElement _appendHTMLToString:indentLevel:]
+-[DTTextHTMLElement attributedString]
+-[DTTextHTMLElement text]
+-[DTTextHTMLElement setText:]
+-[DTTextHTMLElement .cxx_destruct]
+_OBJC_IVAR_$_DTTextHTMLElement._text
+_OBJC_CLASSLIST_REFERENCES_$_.45
+__OBJC_METACLASS_RO_$_DTTextHTMLElement
+__OBJC_$_INSTANCE_METHODS_DTTextHTMLElement
+__OBJC_$_INSTANCE_VARIABLES_DTTextHTMLElement
+__OBJC_$_PROP_LIST_DTTextHTMLElement
+__OBJC_CLASS_RO_$_DTTextHTMLElement
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTTextHTMLElement.m
+Core/Source/DTTextHTMLElement.m
+-[NSString(HTML) integerValueFromHex]
+-[NSString(HTML) isNumeric]
+-[NSString(HTML) isIgnorableWhitespace]
+-[NSString(HTML) percentValue]
+-[NSString(HTML) stringByNormalizingWhitespace]
+-[NSString(HTML) hasPrefixCharacterFromSet:]
+-[NSString(HTML) hasSuffixCharacterFromSet:]
+-[NSString(HTML) stringByAddingHTMLEntities]
+___44-[NSString(HTML) stringByAddingHTMLEntities]_block_invoke
+-[NSString(HTML) stringByReplacingHTMLEntities]
+___47-[NSString(HTML) stringByReplacingHTMLEntities]_block_invoke
+-[NSString(HTML) stringByAddingAppleConvertedSpace]
+-[NSString(HTML) stringByEncodingNonASCIICharacters]
+_entityLookup
+_entityReverseLookup
+_stringByAddingHTMLEntities.predicate
+_OBJC_SELECTOR_REFERENCES_.523
+_OBJC_SELECTOR_REFERENCES_.525
+_OBJC_SELECTOR_REFERENCES_.527
+_OBJC_SELECTOR_REFERENCES_.531
+_stringByReplacingHTMLEntities.predicate
+___block_literal_global.536
+_OBJC_CLASSLIST_REFERENCES_$_.1531
+_OBJC_SELECTOR_REFERENCES_.1533
+_OBJC_SELECTOR_REFERENCES_.1535
+_OBJC_SELECTOR_REFERENCES_.1537
+_OBJC_SELECTOR_REFERENCES_.1539
+_OBJC_SELECTOR_REFERENCES_.1541
+_OBJC_SELECTOR_REFERENCES_.1543
+_OBJC_SELECTOR_REFERENCES_.1547
+_OBJC_SELECTOR_REFERENCES_.1551
+_OBJC_SELECTOR_REFERENCES_.1555
+_OBJC_SELECTOR_REFERENCES_.1557
+_OBJC_SELECTOR_REFERENCES_.1559
+_OBJC_SELECTOR_REFERENCES_.1563
+_OBJC_SELECTOR_REFERENCES_.1567
+_OBJC_SELECTOR_REFERENCES_.1573
+_OBJC_SELECTOR_REFERENCES_.1575
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSString_$_HTML
+__OBJC_$_CATEGORY_NSString_$_HTML
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/NSString+HTML.m
+Core/Source/NSString+HTML.m
+__47-[NSString(HTML) stringByReplacingHTMLEntities]_block_invoke
+__44-[NSString(HTML) stringByAddingHTMLEntities]_block_invoke
+CFStringGetLongCharacterForSurrogatePair
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFString.h
+CFStringIsSurrogateHighCharacter
+-[NSAttributedString(HTML) initWithHTMLData:documentAttributes:]
+-[NSAttributedString(HTML) initWithHTMLData:baseURL:documentAttributes:]
+-[NSAttributedString(HTML) initWithHTMLData:options:documentAttributes:]
++[NSAttributedString(HTML) getArchivingDictionaryWith:]
+-[NSAttributedString(HTML) convertToData]
+___41-[NSAttributedString(HTML) convertToData]_block_invoke
++[NSAttributedString(HTML) attributedStringWithData:]
+___53+[NSAttributedString(HTML) attributedStringWithData:]_block_invoke
+___copy_helper_block_e8_40s
+___destroy_helper_block_e8_40s
+-[NSAttributedString(HTML) HTMLAttributesAtIndex:]
+-[NSAttributedString(HTML) rangeOfHTMLAttribute:atIndex:]
+___block_descriptor_48_e8_32s40s_e41_v40?0"NSDictionary"8{_NSRange=QQ}16^B32l
+_OBJC_CLASSLIST_REFERENCES_$_.53
+___block_descriptor_48_e8_40s_e41_v40?0"NSDictionary"8{_NSRange=QQ}16^B32l
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSAttributedString_$_HTML
+__OBJC_$_CATEGORY_CLASS_METHODS_NSAttributedString_$_HTML
+__OBJC_$_CATEGORY_NSAttributedString_$_HTML
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/NSAttributedString+HTML.m
+Core/Source/NSAttributedString+HTML.m
+__destroy_helper_block_e8_40s
+__copy_helper_block_e8_40s
+__53+[NSAttributedString(HTML) attributedStringWithData:]_block_invoke
+__41-[NSAttributedString(HTML) convertToData]_block_invoke
++[NSCharacterSet(HTML) tagNameCharacterSet]
+___43+[NSCharacterSet(HTML) tagNameCharacterSet]_block_invoke
++[NSCharacterSet(HTML) tagAttributeNameCharacterSet]
+___52+[NSCharacterSet(HTML) tagAttributeNameCharacterSet]_block_invoke
++[NSCharacterSet(HTML) ignorableWhitespaceCharacterSet]
+___55+[NSCharacterSet(HTML) ignorableWhitespaceCharacterSet]_block_invoke
++[NSCharacterSet(HTML) quoteCharacterSet]
+___41+[NSCharacterSet(HTML) quoteCharacterSet]_block_invoke
++[NSCharacterSet(HTML) nonQuotedAttributeEndCharacterSet]
+___57+[NSCharacterSet(HTML) nonQuotedAttributeEndCharacterSet]_block_invoke
++[NSCharacterSet(HTML) cssStyleAttributeNameCharacterSet]
+___57+[NSCharacterSet(HTML) cssStyleAttributeNameCharacterSet]_block_invoke
++[NSCharacterSet(HTML) cssLengthValueCharacterSet]
+___50+[NSCharacterSet(HTML) cssLengthValueCharacterSet]_block_invoke
++[NSCharacterSet(HTML) cssLengthUnitCharacterSet]
+___49+[NSCharacterSet(HTML) cssLengthUnitCharacterSet]_block_invoke
++[NSCharacterSet(HTML) ASCIICharacterSet]
+___41+[NSCharacterSet(HTML) ASCIICharacterSet]_block_invoke
+__tagNameCharacterSet
+__ignorableWhitespaceCharacterSet
+__tagAttributeNameCharacterSet
+__quoteCharacterSet
+__nonQuotedAttributeEndCharacterSet
+__cssStyleAttributeNameCharacterSet
+__cssLengthValueCharacterSet
+__cssLengthUnitCharacterSet
+__asciiCharacterSet
+_tagNameCharacterSet.predicate
+_tagAttributeNameCharacterSet.predicate
+___block_literal_global.2
+_ignorableWhitespaceCharacterSet.predicate
+___block_literal_global.5
+_OBJC_CLASSLIST_REFERENCES_$_.6
+_quoteCharacterSet.predicate
+___block_literal_global.51
+_nonQuotedAttributeEndCharacterSet.predicate
+___block_literal_global.54
+_cssStyleAttributeNameCharacterSet.predicate
+___block_literal_global.59
+_cssLengthValueCharacterSet.predicate
+___block_literal_global.62
+_cssLengthUnitCharacterSet.predicate
+___block_literal_global.65
+_ASCIICharacterSet.predicate
+___block_literal_global.68
+__OBJC_$_CATEGORY_CLASS_METHODS_NSCharacterSet_$_HTML
+__OBJC_$_CATEGORY_NSCharacterSet_$_HTML
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/NSCharacterSet+HTML.m
+__41+[NSCharacterSet(HTML) ASCIICharacterSet]_block_invoke
+Core/Source/NSCharacterSet+HTML.m
+__49+[NSCharacterSet(HTML) cssLengthUnitCharacterSet]_block_invoke
+__50+[NSCharacterSet(HTML) cssLengthValueCharacterSet]_block_invoke
+__57+[NSCharacterSet(HTML) cssStyleAttributeNameCharacterSet]_block_invoke
+__57+[NSCharacterSet(HTML) nonQuotedAttributeEndCharacterSet]_block_invoke
+__41+[NSCharacterSet(HTML) quoteCharacterSet]_block_invoke
+__55+[NSCharacterSet(HTML) ignorableWhitespaceCharacterSet]_block_invoke
+__52+[NSCharacterSet(HTML) tagAttributeNameCharacterSet]_block_invoke
+__43+[NSCharacterSet(HTML) tagNameCharacterSet]_block_invoke
+-[DTHTMLParserTextNode initWithCharacters:]
+-[DTHTMLParserTextNode description]
+-[DTHTMLParserTextNode _appendHTMLToString:indentLevel:]
+-[DTHTMLParserTextNode characters]
+-[DTHTMLParserTextNode .cxx_destruct]
+_OBJC_IVAR_$_DTHTMLParserTextNode._characters
+__OBJC_METACLASS_RO_$_DTHTMLParserTextNode
+__OBJC_$_INSTANCE_METHODS_DTHTMLParserTextNode
+__OBJC_$_INSTANCE_VARIABLES_DTHTMLParserTextNode
+__OBJC_$_PROP_LIST_DTHTMLParserTextNode
+__OBJC_CLASS_RO_$_DTHTMLParserTextNode
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTHTMLParserTextNode.m
+Core/Source/DTHTMLParserTextNode.m
+-[UIImage(HTML) dataForPNGRepresentation]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIImage_$_HTML
+__OBJC_$_CATEGORY_UIImage_$_HTML
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTImage+HTML.m
+Core/Source/DTImage+HTML.m
+-[DTTextBlock initWithCoder:]
+-[DTTextBlock encodeWithCoder:]
+-[DTTextBlock hash]
+-[DTTextBlock isEqual:]
+-[DTTextBlock padding]
+-[DTTextBlock setPadding:]
+-[DTTextBlock backgroundColor]
+-[DTTextBlock setBackgroundColor:]
+-[DTTextBlock .cxx_destruct]
+__OBJC_CLASS_PROTOCOLS_$_DTTextBlock
+__OBJC_METACLASS_RO_$_DTTextBlock
+__OBJC_$_INSTANCE_METHODS_DTTextBlock
+_OBJC_IVAR_$_DTTextBlock._padding
+_OBJC_IVAR_$_DTTextBlock._backgroundColor
+__OBJC_$_INSTANCE_VARIABLES_DTTextBlock
+__OBJC_$_PROP_LIST_DTTextBlock
+__OBJC_CLASS_RO_$_DTTextBlock
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTTextBlock.m
+Core/Source/DTTextBlock.m
+-[DTAccessibilityViewProxy initWithTextAttachment:delegate:]
+-[DTAccessibilityViewProxy proxiedView]
+-[DTAccessibilityViewProxy class]
+-[DTAccessibilityViewProxy methodSignatureForSelector:]
+-[DTAccessibilityViewProxy forwardInvocation:]
+-[DTAccessibilityViewProxy isEqual:]
+-[DTAccessibilityViewProxy hash]
+-[DTAccessibilityViewProxy delegate]
+-[DTAccessibilityViewProxy textAttachment]
+-[DTAccessibilityViewProxy .cxx_destruct]
+_OBJC_IVAR_$_DTAccessibilityViewProxy._textAttachment
+_OBJC_IVAR_$_DTAccessibilityViewProxy._delegate
+_OBJC_CLASSLIST_REFERENCES_$_.9
+__OBJC_METACLASS_RO_$_DTAccessibilityViewProxy
+__OBJC_$_INSTANCE_METHODS_DTAccessibilityViewProxy
+__OBJC_$_INSTANCE_VARIABLES_DTAccessibilityViewProxy
+__OBJC_$_PROP_LIST_DTAccessibilityViewProxy
+__OBJC_CLASS_RO_$_DTAccessibilityViewProxy
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTAccessibilityViewProxy.m
+Core/Source/DTAccessibilityViewProxy.m
+Core/Source/DTAccessibilityViewProxy.h
+-[NSMutableAttributedString(HTML) appendString:]
+-[NSMutableAttributedString(HTML) appendString:withParagraphStyle:fontDescriptor:]
+-[NSMutableAttributedString(HTML) appendEndOfParagraph]
+-[NSMutableAttributedString(HTML) addHTMLAttribute:value:range:replaceExisting:]
+___80-[NSMutableAttributedString(HTML) addHTMLAttribute:value:range:replaceExisting:]_block_invoke
+___80-[NSMutableAttributedString(HTML) addHTMLAttribute:value:range:replaceExisting:]_block_invoke.53
+___80-[NSMutableAttributedString(HTML) addHTMLAttribute:value:range:replaceExisting:]_block_invoke_2
+-[NSMutableAttributedString(HTML) removeHTMLAttribute:range:]
+___61-[NSMutableAttributedString(HTML) removeHTMLAttribute:range:]_block_invoke
+_OBJC_CLASSLIST_REFERENCES_$_.33
+_OBJC_CLASSLIST_REFERENCES_$_.36
+___block_descriptor_49_e8_32s40s_e41_v40?0"NSDictionary"8{_NSRange=QQ}16^B32l
+___block_descriptor_56_e8_32s40s48s_e41_v40?0"NSDictionary"8{_NSRange=QQ}16^B32l
+___block_descriptor_56_e8_32s40s48s_e24_v32?0{_NSRange=QQ}8^B24l
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSMutableAttributedString_$_HTML
+__OBJC_$_CATEGORY_NSMutableAttributedString_$_HTML
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/NSMutableAttributedString+HTML.m
+__61-[NSMutableAttributedString(HTML) removeHTMLAttribute:range:]_block_invoke
+Core/Source/NSMutableAttributedString+HTML.m
+__80-[NSMutableAttributedString(HTML) addHTMLAttribute:value:range:replaceExisting:]_block_invoke_2
+__80-[NSMutableAttributedString(HTML) addHTMLAttribute:value:range:replaceExisting:]_block_invoke.53
+__80-[NSMutableAttributedString(HTML) addHTMLAttribute:value:range:replaceExisting:]_block_invoke
+-[DTObjectTextAttachment initWithCoder:]
+-[DTObjectTextAttachment encodeWithCoder:]
+-[DTObjectTextAttachment initWithElement:options:]
+-[DTObjectTextAttachment stringByEncodingAsHTML]
+-[DTObjectTextAttachment childNodes]
+-[DTObjectTextAttachment setChildNodes:]
+-[DTObjectTextAttachment .cxx_destruct]
+_OBJC_IVAR_$_DTObjectTextAttachment._childNodes
+__OBJC_CLASS_PROTOCOLS_$_DTObjectTextAttachment
+__OBJC_METACLASS_RO_$_DTObjectTextAttachment
+__OBJC_$_INSTANCE_METHODS_DTObjectTextAttachment
+__OBJC_$_INSTANCE_VARIABLES_DTObjectTextAttachment
+__OBJC_$_PROP_LIST_DTObjectTextAttachment
+__OBJC_CLASS_RO_$_DTObjectTextAttachment
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTObjectTextAttachment.m
+Core/Source/DTObjectTextAttachment.m
+-[DTAnchorHTMLElement applyStyleDictionary:]
+-[DTAnchorHTMLElement attributedString]
+-[DTAnchorHTMLElement highlightedTextColor]
+-[DTAnchorHTMLElement setHighlightedTextColor:]
+-[DTAnchorHTMLElement .cxx_destruct]
+_OBJC_IVAR_$_DTAnchorHTMLElement._highlightedTextColor
+__OBJC_METACLASS_RO_$_DTAnchorHTMLElement
+__OBJC_$_INSTANCE_METHODS_DTAnchorHTMLElement
+__OBJC_$_INSTANCE_VARIABLES_DTAnchorHTMLElement
+__OBJC_$_PROP_LIST_DTAnchorHTMLElement
+__OBJC_CLASS_RO_$_DTAnchorHTMLElement
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTAnchorHTMLElement.m
+Core/Source/DTAnchorHTMLElement.m
++[NSAttributedString(SmallCaps) synthesizedSmallCapsAttributedStringWithText:attributes:]
+__OBJC_$_CATEGORY_CLASS_METHODS_NSAttributedString_$_SmallCaps
+__OBJC_$_CATEGORY_NSAttributedString_$_SmallCaps
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/NSAttributedString+SmallCaps.m
+Core/Source/NSAttributedString+SmallCaps.m
+-[DTDictationPlaceholderTextAttachment initWithCoder:]
+-[DTDictationPlaceholderTextAttachment encodeWithCoder:]
+-[DTDictationPlaceholderTextAttachment displaySize]
+-[DTDictationPlaceholderTextAttachment originalSize]
+-[DTDictationPlaceholderTextAttachment ascentForLayout]
+-[DTDictationPlaceholderTextAttachment descentForLayout]
+-[DTDictationPlaceholderTextAttachment replacedAttributedString]
+-[DTDictationPlaceholderTextAttachment setReplacedAttributedString:]
+-[DTDictationPlaceholderTextAttachment .cxx_destruct]
+_OBJC_IVAR_$_DTDictationPlaceholderTextAttachment._replacedAttributedString
+__OBJC_METACLASS_RO_$_DTDictationPlaceholderTextAttachment
+__OBJC_$_INSTANCE_METHODS_DTDictationPlaceholderTextAttachment
+__OBJC_$_INSTANCE_VARIABLES_DTDictationPlaceholderTextAttachment
+__OBJC_$_PROP_LIST_DTDictationPlaceholderTextAttachment
+__OBJC_CLASS_RO_$_DTDictationPlaceholderTextAttachment
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTDictationPlaceholderTextAttachment.m
+Core/Source/DTDictationPlaceholderTextAttachment.m
+___DTColorCreateWithHTMLName_block_invoke
+_colorLookup
+_DTColorCreateWithHTMLName.predicate
+_OBJC_SELECTOR_REFERENCES_.610
+_OBJC_SELECTOR_REFERENCES_.612
+_OBJC_SELECTOR_REFERENCES_.614
+_OBJC_SELECTOR_REFERENCES_.616
+_OBJC_CLASSLIST_REFERENCES_$_.619
+_OBJC_SELECTOR_REFERENCES_.621
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTColorFunctions.m
+DTHexStringFromDTColor
+Core/Source/DTColorFunctions.m
+__DTColorCreateWithHTMLName_block_invoke
+DTColorCreateWithHTMLName
+DTColorCreateWithHexString
+_integerValueFromHexString
+-[DTHTMLWriter initWithAttributedString:]
+-[DTHTMLWriter _styleArrayForElement:]
+-[DTHTMLWriter _styleClassForElement:style:]
+-[DTHTMLWriter _tagRepresentationForListStyle:closingTag:listPadding:inlineStyles:]
+-[DTHTMLWriter _buildOutput]
+-[DTHTMLWriter _buildOutputAsHTMLFragment:]
+___43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke
+___copy_helper_block_e8_32s40s48s56s
+___destroy_helper_block_e8_32s40s48s56s
+___43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke.178
+___43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke.213
+___Block_byref_object_copy_
+___Block_byref_object_dispose_
+___43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke.218
+___43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke_2
+___copy_helper_block_e8_32s40r48r
+___destroy_helper_block_e8_32s40r48r
+___43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke.313
+___copy_helper_block_e8_32s40s48s56r64r
+___destroy_helper_block_e8_32s40s48s56r64r
+___43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke.319
+___43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke_2.320
+___copy_helper_block_e8_32s40s48s56s64s72r80r88r
+___destroy_helper_block_e8_32s40s48s56s64s72r80r88r
+___43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke.348
+-[DTHTMLWriter HTMLString]
+-[DTHTMLWriter HTMLFragment]
+-[DTHTMLWriter attributedString]
+-[DTHTMLWriter textScale]
+-[DTHTMLWriter setTextScale:]
+-[DTHTMLWriter useAppleConvertedSpace]
+-[DTHTMLWriter setUseAppleConvertedSpace:]
+-[DTHTMLWriter paragraphTagName]
+-[DTHTMLWriter setParagraphTagName:]
+-[DTHTMLWriter .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.82
+_OBJC_CLASSLIST_REFERENCES_$_.134
+___block_descriptor_65_e8_32s40s48s56s_e31_v32?0"DTCSSListStyle"8Q16^B24l
+___block_descriptor_64_e8_32s40s_e25_v32?0"NSString"816^B24l
+_OBJC_CLASSLIST_REFERENCES_$_.202
+_OBJC_SELECTOR_REFERENCES_.204
+___block_descriptor_40_e8_32s_e25_v32?0"NSString"816^B24l
+_OBJC_SELECTOR_REFERENCES_.220
+_OBJC_SELECTOR_REFERENCES_.222
+_OBJC_SELECTOR_REFERENCES_.224
+___block_descriptor_56_e8_32s40r48r_e25_v32?0"NSString"816^B24l
+_OBJC_SELECTOR_REFERENCES_.230
+_OBJC_SELECTOR_REFERENCES_.232
+_OBJC_SELECTOR_REFERENCES_.234
+__OBJC_PROTOCOL_REFERENCE_$_DTTextAttachmentHTMLPersistence
+_OBJC_SELECTOR_REFERENCES_.314
+___block_descriptor_89_e8_32s40s48s56r64r_e25_v32?0"NSString"816^B24l
+___block_descriptor_114_e8_32s40s48s56s64s72r80r88r_e41_v40?0"NSDictionary"8{_NSRange=QQ}16^B32l
+_OBJC_SELECTOR_REFERENCES_.327
+_OBJC_SELECTOR_REFERENCES_.329
+_OBJC_SELECTOR_REFERENCES_.331
+_OBJC_SELECTOR_REFERENCES_.333
+_OBJC_SELECTOR_REFERENCES_.341
+_OBJC_SELECTOR_REFERENCES_.345
+___block_descriptor_48_e8_32s40s_e25_v32?0"NSString"8Q16^B24l
+_OBJC_SELECTOR_REFERENCES_.363
+__OBJC_METACLASS_RO_$_DTHTMLWriter
+__OBJC_$_INSTANCE_METHODS_DTHTMLWriter
+_OBJC_IVAR_$_DTHTMLWriter._attributedString
+_OBJC_IVAR_$_DTHTMLWriter._HTMLString
+_OBJC_IVAR_$_DTHTMLWriter._textScale
+_OBJC_IVAR_$_DTHTMLWriter._useAppleConvertedSpace
+_OBJC_IVAR_$_DTHTMLWriter._styleLookup
+_OBJC_IVAR_$_DTHTMLWriter._paragraphTagName
+__OBJC_$_INSTANCE_VARIABLES_DTHTMLWriter
+__OBJC_$_PROP_LIST_DTHTMLWriter
+__OBJC_CLASS_RO_$_DTHTMLWriter
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTHTMLWriter.m
+Core/Source/DTHTMLWriter.m
+Core/Source/DTHTMLWriter.h
+__43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke.348
+__destroy_helper_block_e8_32s40s48s56s64s72r80r88r
+__copy_helper_block_e8_32s40s48s56s64s72r80r88r
+__43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke_2.320
+__43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke.319
+__destroy_helper_block_e8_32s40s48s56r64r
+__copy_helper_block_e8_32s40s48s56r64r
+__43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke.313
+NSEqualRanges
+__destroy_helper_block_e8_32s40r48r
+__copy_helper_block_e8_32s40r48r
+__43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke_2
+__43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke.218
+__Block_byref_object_dispose_
+__Block_byref_object_copy_
+__43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke.213
+__43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke.178
+__destroy_helper_block_e8_32s40s48s56s
+__copy_helper_block_e8_32s40s48s56s
+__43-[DTHTMLWriter _buildOutputAsHTMLFragment:]_block_invoke
++[DTCoreTextParagraphStyle defaultParagraphStyle]
++[DTCoreTextParagraphStyle paragraphStyleWithCTParagraphStyle:]
++[DTCoreTextParagraphStyle paragraphStyleWithNSParagraphStyle:]
+-[DTCoreTextParagraphStyle init]
+-[DTCoreTextParagraphStyle initWithCTParagraphStyle:]
+-[DTCoreTextParagraphStyle createCTParagraphStyle]
+-[DTCoreTextParagraphStyle NSParagraphStyle]
+-[DTCoreTextParagraphStyle addTabStopAtPosition:alignment:]
+-[DTCoreTextParagraphStyle cssStyleRepresentation]
+-[DTCoreTextParagraphStyle copyWithZone:]
+-[DTCoreTextParagraphStyle isEqual:]
+-[DTCoreTextParagraphStyle setTabStops:]
+-[DTCoreTextParagraphStyle setFirstLineHeadIndent:]
+-[DTCoreTextParagraphStyle setDefaultTabInterval:]
+-[DTCoreTextParagraphStyle setParagraphSpacingBefore:]
+-[DTCoreTextParagraphStyle setParagraphSpacing:]
+-[DTCoreTextParagraphStyle setLineHeightMultiple:]
+-[DTCoreTextParagraphStyle setMinimumLineHeight:]
+-[DTCoreTextParagraphStyle setMaximumLineHeight:]
+-[DTCoreTextParagraphStyle setHeadIndent:]
+-[DTCoreTextParagraphStyle setTailIndent:]
+-[DTCoreTextParagraphStyle setAlignment:]
+-[DTCoreTextParagraphStyle setTextLists:]
+-[DTCoreTextParagraphStyle setTextBlocks:]
+-[DTCoreTextParagraphStyle setBaseWritingDirection:]
+-[DTCoreTextParagraphStyle firstLineHeadIndent]
+-[DTCoreTextParagraphStyle defaultTabInterval]
+-[DTCoreTextParagraphStyle paragraphSpacingBefore]
+-[DTCoreTextParagraphStyle paragraphSpacing]
+-[DTCoreTextParagraphStyle lineHeightMultiple]
+-[DTCoreTextParagraphStyle minimumLineHeight]
+-[DTCoreTextParagraphStyle maximumLineHeight]
+-[DTCoreTextParagraphStyle headIndent]
+-[DTCoreTextParagraphStyle tailIndent]
+-[DTCoreTextParagraphStyle alignment]
+-[DTCoreTextParagraphStyle textLists]
+-[DTCoreTextParagraphStyle textBlocks]
+-[DTCoreTextParagraphStyle baseWritingDirection]
+-[DTCoreTextParagraphStyle tabStops]
+-[DTCoreTextParagraphStyle .cxx_destruct]
+__OBJC_$_CLASS_METHODS_DTCoreTextParagraphStyle
+__OBJC_CLASS_PROTOCOLS_$_DTCoreTextParagraphStyle
+__OBJC_METACLASS_RO_$_DTCoreTextParagraphStyle
+__OBJC_$_INSTANCE_METHODS_DTCoreTextParagraphStyle
+_OBJC_IVAR_$_DTCoreTextParagraphStyle._firstLineHeadIndent
+_OBJC_IVAR_$_DTCoreTextParagraphStyle._defaultTabInterval
+_OBJC_IVAR_$_DTCoreTextParagraphStyle._paragraphSpacingBefore
+_OBJC_IVAR_$_DTCoreTextParagraphStyle._paragraphSpacing
+_OBJC_IVAR_$_DTCoreTextParagraphStyle._headIndent
+_OBJC_IVAR_$_DTCoreTextParagraphStyle._tailIndent
+_OBJC_IVAR_$_DTCoreTextParagraphStyle._lineHeightMultiple
+_OBJC_IVAR_$_DTCoreTextParagraphStyle._minimumLineHeight
+_OBJC_IVAR_$_DTCoreTextParagraphStyle._maximumLineHeight
+_OBJC_IVAR_$_DTCoreTextParagraphStyle._alignment
+_OBJC_IVAR_$_DTCoreTextParagraphStyle._baseWritingDirection
+_OBJC_IVAR_$_DTCoreTextParagraphStyle._tabStops
+_OBJC_IVAR_$_DTCoreTextParagraphStyle._textLists
+_OBJC_IVAR_$_DTCoreTextParagraphStyle._textBlocks
+__OBJC_$_INSTANCE_VARIABLES_DTCoreTextParagraphStyle
+__OBJC_$_PROP_LIST_DTCoreTextParagraphStyle
+__OBJC_CLASS_RO_$_DTCoreTextParagraphStyle
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTCoreTextParagraphStyle.m
+Core/Source/DTCoreTextParagraphStyle.m
+-[DTHTMLParserNode initWithName:attributes:]
+-[DTHTMLParserNode addChildNode:]
+-[DTHTMLParserNode removeChildNode:]
+-[DTHTMLParserNode removeAllChildNodes]
+-[DTHTMLParserNode description]
+-[DTHTMLParserNode _appendHTMLToString:indentLevel:]
+-[DTHTMLParserNode debugDescription]
+-[DTHTMLParserNode text]
+-[DTHTMLParserNode childNodes]
+-[DTHTMLParserNode name]
+-[DTHTMLParserNode setName:]
+-[DTHTMLParserNode attributes]
+-[DTHTMLParserNode setAttributes:]
+-[DTHTMLParserNode parentNode]
+-[DTHTMLParserNode setParentNode:]
+-[DTHTMLParserNode .cxx_destruct]
+__OBJC_METACLASS_RO_$_DTHTMLParserNode
+__OBJC_$_INSTANCE_METHODS_DTHTMLParserNode
+_OBJC_IVAR_$_DTHTMLParserNode._name
+_OBJC_IVAR_$_DTHTMLParserNode._parentNode
+_OBJC_IVAR_$_DTHTMLParserNode._childNodes
+__OBJC_$_INSTANCE_VARIABLES_DTHTMLParserNode
+__OBJC_$_PROP_LIST_DTHTMLParserNode
+__OBJC_CLASS_RO_$_DTHTMLParserNode
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTHTMLParserNode.m
+Core/Source/DTHTMLParserNode.m
++[DTCoreTextFontCollection availableFontsCollection]
+___52+[DTCoreTextFontCollection availableFontsCollection]_block_invoke
+-[DTCoreTextFontCollection initWithAvailableFonts]
+-[DTCoreTextFontCollection matchingFontDescriptorForFontDescriptor:]
+-[DTCoreTextFontCollection fontDescriptors]
+-[DTCoreTextFontCollection fontMatchCache]
+-[DTCoreTextFontCollection fontFamilyNames]
+-[DTCoreTextFontCollection setFontDescriptors:]
+-[DTCoreTextFontCollection setFontMatchCache:]
+-[DTCoreTextFontCollection .cxx_destruct]
+__availableFontsCollection
+_availableFontsCollection.predicate
+_OBJC_CLASSLIST_REFERENCES_$_.44
+__OBJC_$_CLASS_METHODS_DTCoreTextFontCollection
+__OBJC_METACLASS_RO_$_DTCoreTextFontCollection
+__OBJC_$_INSTANCE_METHODS_DTCoreTextFontCollection
+_OBJC_IVAR_$_DTCoreTextFontCollection._fontDescriptors
+_OBJC_IVAR_$_DTCoreTextFontCollection._fontMatchCache
+__OBJC_$_INSTANCE_VARIABLES_DTCoreTextFontCollection
+__OBJC_$_PROP_LIST_DTCoreTextFontCollection
+__OBJC_CLASS_RO_$_DTCoreTextFontCollection
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTCoreTextFontCollection.m
+Core/Source/DTCoreTextFontCollection.m
+__52+[DTCoreTextFontCollection availableFontsCollection]_block_invoke
+-[NSString(CSS) dictionaryOfCSSStyles]
+-[NSString(CSS) isCSSLengthValue]
+-[NSString(CSS) pixelSizeOfCSSMeasureRelativeToCurrentTextSize:textScale:]
+-[NSString(CSS) DTEdgeInsetsRelativeToCurrentTextSize:textScale:]
+-[NSString(CSS) arrayOfCSSShadowsWithCurrentTextSize:currentColor:]
+-[NSString(CSS) stringByDecodingCSSContentAttribute]
+_OBJC_CLASSLIST_REFERENCES_$_.8
+_OBJC_CLASSLIST_REFERENCES_$_.59
+_OBJC_CLASSLIST_REFERENCES_$_.75
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSString_$_CSS
+__OBJC_$_CATEGORY_NSString_$_CSS
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/NSString+CSS.m
+Core/Source/NSString+CSS.m
+-[NSNumber(RomanNumerals) romanNumeral]
+_romanNumerals
+_romanValues
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSNumber_$_RomanNumerals
+__OBJC_$_CATEGORY_NSNumber_$_RomanNumerals
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/NSNumber+RomanNumerals.m
+Core/Source/NSNumber+RomanNumerals.m
+-[NSScanner(HTML) scanCSSAttribute:value:]
+-[NSScanner(HTML) scanCSSURL:]
+-[NSScanner(HTML) scanHTMLColor:]
+-[NSScanner(HTML) scanHTMLColor:HTMLName:]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSScanner_$_HTML
+__OBJC_$_CATEGORY_NSScanner_$_HTML
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/NSScanner+HTML.m
+Core/Source/NSScanner+HTML.m
++[DTDictationPlaceholderView placeholderView]
+-[DTDictationPlaceholderView initWithFrame:]
+-[DTDictationPlaceholderView sizeThatFits:]
+-[DTDictationPlaceholderView _lightDotColor]
+-[DTDictationPlaceholderView _darkDotColor]
+-[DTDictationPlaceholderView willMoveToSuperview:]
+-[DTDictationPlaceholderView drawRect:]
+-[DTDictationPlaceholderView _phaseTimerTick:]
+-[DTDictationPlaceholderView context]
+-[DTDictationPlaceholderView setContext:]
+-[DTDictationPlaceholderView .cxx_destruct]
+_OBJC_IVAR_$_DTDictationPlaceholderView._phaseTimer
+_OBJC_IVAR_$_DTDictationPlaceholderView._phase
+_OBJC_IVAR_$_DTDictationPlaceholderView._context
+__OBJC_$_CLASS_METHODS_DTDictationPlaceholderView
+__OBJC_METACLASS_RO_$_DTDictationPlaceholderView
+__OBJC_$_INSTANCE_METHODS_DTDictationPlaceholderView
+__OBJC_$_INSTANCE_VARIABLES_DTDictationPlaceholderView
+__OBJC_$_PROP_LIST_DTDictationPlaceholderView
+__OBJC_CLASS_RO_$_DTDictationPlaceholderView
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTDictationPlaceholderView.m
+Core/Source/DTDictationPlaceholderView.m
+Core/Source/DTDictationPlaceholderView.h
+-[DTStylesheetHTMLElement attributedString]
+-[DTStylesheetHTMLElement stylesheet]
+__OBJC_METACLASS_RO_$_DTStylesheetHTMLElement
+__OBJC_$_INSTANCE_METHODS_DTStylesheetHTMLElement
+__OBJC_CLASS_RO_$_DTStylesheetHTMLElement
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTStylesheetHTMLElement.m
+Core/Source/DTStylesheetHTMLElement.m
+-[NSDictionary(DTCoreText) isBold]
+-[NSDictionary(DTCoreText) isItalic]
+-[NSDictionary(DTCoreText) isUnderline]
+-[NSDictionary(DTCoreText) isStrikethrough]
+-[NSDictionary(DTCoreText) headerLevel]
+-[NSDictionary(DTCoreText) hasAttachment]
+-[NSDictionary(DTCoreText) paragraphStyle]
+-[NSDictionary(DTCoreText) fontDescriptor]
+-[NSDictionary(DTCoreText) foregroundColor]
+-[NSDictionary(DTCoreText) backgroundColor]
+-[NSDictionary(DTCoreText) kerning]
+-[NSDictionary(DTCoreText) backgroundStrokeColor]
+-[NSDictionary(DTCoreText) backgroundStrokeWidth]
+-[NSDictionary(DTCoreText) backgroundCornerRadius]
+__OBJC_$_CATEGORY_INSTANCE_METHODS_NSDictionary_$_DTCoreText
+__OBJC_$_CATEGORY_NSDictionary_$_DTCoreText
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/NSDictionary+DTCoreText.m
+Core/Source/NSDictionary+DTCoreText.m
+/Users/walter_yaron/Documents/MyMentorApp/Carthage/Checkouts/DTCoreText/Core/Source/DTCoreTextFunctions.m
+DTNSTextAlignmentFromCTTextAlignment
+Core/Source/DTCoreTextFunctions.m
+DTNSTextAlignmentToCTTextAlignment
+DTFloorWithContentScale
+DTCeilWithContentScale
+DTRoundWithContentScale
+DTCTLineTruncationTypeFromNSLineBreakMode
+DTCTFontCreateWithUIFont

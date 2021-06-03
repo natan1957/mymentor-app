@@ -1,0 +1,17 @@
+{
+  "commitish" : "1.7.17",
+  "iOS" : [
+    {
+      "hash" : "9ca95fa64c5a7fd72ad296d6a257f7ee9d825008f7bcb50a3130d0631240a01b",
+      "name" : "DTFoundation",
+      "container" : "DTFoundation.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "fc3999835913b2a628b1dd0bfd293af79157acb66c6c055f7c523d62276feb35",
+      "name" : "DTFoundation",
+      "container" : "DTFoundation.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}

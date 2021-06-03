@@ -1,0 +1,4 @@
+$(SRCROOT)/Carthage/Build/Bolts.xcframework
+$(SRCROOT)/Carthage/Build/DTCoreText.xcframework
+$(SRCROOT)/Carthage/Build/DTFoundation.xcframework
+$(SRCROOT)/Carthage/Build/Parse.xcframework

@@ -1,0 +1,5 @@
+github "BoltsFramework/Bolts-ObjC" "1.9.1"
+github "Cocoanetics/DTCoreText" "1.6.25"
+github "Cocoanetics/DTFoundation" "1.7.17"
+github "facebook/facebook-ios-sdk" "v9.3.0"
+github "parse-community/Parse-SDK-iOS-OSX" "1.19.2"

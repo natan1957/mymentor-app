@@ -1,0 +1,17 @@
+{
+  "commitish" : "1.6.25",
+  "iOS" : [
+    {
+      "hash" : "bd563f7d4b1491f9b40d2dc7371a041a67d22299762799dc1d38c5caad79da5d",
+      "name" : "DTCoreText",
+      "container" : "DTCoreText.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "6b415f17c1a38b542c0f10ca2fe6fc938605c8adefff4ba568f31c55bcc92cf3",
+      "name" : "DTCoreText",
+      "container" : "DTCoreText.xcframework",
+      "identifier" : "ios-arm64"
+    }
+  ]
+}

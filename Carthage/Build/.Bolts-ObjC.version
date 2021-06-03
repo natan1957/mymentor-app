@@ -1,0 +1,17 @@
+{
+  "commitish" : "1.9.1",
+  "iOS" : [
+    {
+      "hash" : "0a47e01757f1e7264a1bebcfecca9b9ce709aa22a6c4986368abe1a312637590",
+      "name" : "Bolts",
+      "container" : "Bolts.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "5e9a59cce9d6f564f2fc5432ad1f06d213ab8da9837b2002f8cd98541233368f",
+      "name" : "Bolts",
+      "container" : "Bolts.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}

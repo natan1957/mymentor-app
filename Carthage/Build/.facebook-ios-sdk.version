@@ -1,0 +1,144 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "e069d3ff8186cebef57463b5e3a929e30f2fb1deedd7ff120a000758c5627945",
+      "name" : "FBSDKCoreKit",
+      "container" : "FBSDKCoreKit.xcframework",
+      "identifier" : "tvos-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "928b6cc35dcf659e9b0d1f49b91577e61127fc1c0c8e720f0e02ae89b9897516",
+      "name" : "FBSDKCoreKit",
+      "container" : "FBSDKCoreKit.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "d687edd6627d624db16710b4e0c5c78e152d2f119bf6766235a0d783d124c239",
+      "name" : "FBSDKLoginKit",
+      "container" : "FBSDKLoginKit.xcframework",
+      "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "5e413ee7058b082dc673cc0b38b602c94b36ac5d64f86930fa145c8c434b4e4e",
+      "name" : "FBSDKLoginKit",
+      "container" : "FBSDKLoginKit.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "326b479cb706714cbe60a458cc80dbe67f84eeb964cbd421f7b1747d12206e6c",
+      "name" : "FBSDKShareKit",
+      "container" : "FBSDKShareKit.xcframework",
+      "identifier" : "tvos-arm64"
+    },
+    {
+      "hash" : "31ddc3b008985fc06a526c30286fcfdb2652233b9117664b9fb42866d16d77f6",
+      "name" : "FBSDKShareKit",
+      "container" : "FBSDKShareKit.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "b0dfba3517154ac51174c11cfe7ff75f5e42e48e2306bc6d50e3f2a1a111eaae",
+      "name" : "FBSDKTVOSKit",
+      "container" : "FBSDKTVOSKit.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "hash" : "169476a4e74731ab3136f830ac4c2da4e4e9eb28608455f005394ea5f11471fa",
+      "name" : "FBSDKTVOSKit",
+      "container" : "FBSDKTVOSKit.xcframework",
+      "identifier" : "tvos-arm64"
+    }
+  ],
+  "commitish" : "v9.3.0",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "4a388a176ec6aec04ceaa5682db9d5e2e8e718a8e3d0bd43f5f43a1fdf820bd9",
+      "name" : "FBSDKCoreKit",
+      "container" : "FBSDKCoreKit.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "912cfe4ae60233dd508c9ac707ae4c4f2eafcaf7d6b002ccaa6446f5724f5629",
+      "name" : "FBSDKCoreKit",
+      "container" : "FBSDKCoreKit.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "e52fd7e6b8dfea42d65e9b604f8dad47a5bfbd8a6b468fb474d1f0f97d2188a9",
+      "name" : "FBSDKCoreKit",
+      "container" : "FBSDKCoreKit.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "hash" : "e0fa71ea43fbd006989bd126786b41eb93446c96f94184f9676d0fd37b2609a3",
+      "name" : "FBSDKGamingServicesKit",
+      "container" : "FBSDKGamingServicesKit.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "hash" : "587cd1a50e36b2a3e88ec8058780f5c18e0eb84993ee2678cb73c834dcb53ddc",
+      "name" : "FBSDKGamingServicesKit",
+      "container" : "FBSDKGamingServicesKit.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "hash" : "7ded072624b224ff598a4b5346653eb253399d053e5408fa153547d0377d75cc",
+      "name" : "FBSDKGamingServicesKit",
+      "container" : "FBSDKGamingServicesKit.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "3f868c33daedd07603c8037f362e4bd5f0b6df9cbb816376cf492595c5ef3126",
+      "name" : "FBSDKLoginKit",
+      "container" : "FBSDKLoginKit.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "389f7e645b65eca067ce5666c874e12e62b5e84272b047262fd97cbee1784164",
+      "name" : "FBSDKLoginKit",
+      "container" : "FBSDKLoginKit.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "f8821321c1ea35ca851cf2cc5bd40f1345e599c25bd66d81550b39965321b7f8",
+      "name" : "FBSDKLoginKit",
+      "container" : "FBSDKLoginKit.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "3fd2ee8dc1d9c1a28bf9eebfc7a1b756c04212f36e6e493103121a69035dfa61",
+      "name" : "FBSDKShareKit",
+      "container" : "FBSDKShareKit.xcframework",
+      "identifier" : "ios-arm64_x86_64-maccatalyst"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "a3e1cebe2063fc6623d63fe28d1123b7e9478d96e50f991fb7e388562ca41006",
+      "name" : "FBSDKShareKit",
+      "container" : "FBSDKShareKit.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "1026dd357920b4086a0defaab678c4456eab62c3218d4ded8b5b32a868a97af3",
+      "name" : "FBSDKShareKit",
+      "container" : "FBSDKShareKit.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}

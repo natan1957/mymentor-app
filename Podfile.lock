@@ -1,0 +1,44 @@
+PODS:
+  - Bolts/Tasks (1.9.1)
+  - DTCoreText (1.6.25):
+    - DTCoreText/Core (= 1.6.25)
+    - DTFoundation/Core (~> 1.7.5)
+    - DTFoundation/DTAnimatedGIF (~> 1.7.5)
+    - DTFoundation/DTHTMLParser (~> 1.7.5)
+    - DTFoundation/UIKit (~> 1.7.5)
+  - DTCoreText/Core (1.6.25):
+    - DTFoundation/Core (~> 1.7.5)
+    - DTFoundation/DTAnimatedGIF (~> 1.7.5)
+    - DTFoundation/DTHTMLParser (~> 1.7.5)
+    - DTFoundation/UIKit (~> 1.7.5)
+  - DTFoundation/Core (1.7.17)
+  - DTFoundation/DTAnimatedGIF (1.7.17)
+  - DTFoundation/DTHTMLParser (1.7.17):
+    - DTFoundation/Core
+  - DTFoundation/UIKit (1.7.17):
+    - DTFoundation/Core
+  - Parse (1.19.2):
+    - Parse/Core (= 1.19.2)
+  - Parse/Core (1.19.2):
+    - Bolts/Tasks (= 1.9.1)
+
+DEPENDENCIES:
+  - DTCoreText
+  - Parse
+
+SPEC REPOS:
+  trunk:
+    - Bolts
+    - DTCoreText
+    - DTFoundation
+    - Parse
+
+SPEC CHECKSUMS:
+  Bolts: 8c1e8aab2f603387b8b9924f57d1d64f43d3ffdc
+  DTCoreText: e92f4cf6b36d9d71ce4436d12cf089d74ab0596b
+  DTFoundation: 989698be00d3f19438c38a49a8ebb3f6919dcac5
+  Parse: 081fb8755c3000fd11df817eec235def233d0af3
+
+PODFILE CHECKSUM: 12935a9f725a97fa816d578943e805e089371074
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,53 @@
+{
+  "commitish" : "1.19.2",
+  "iOS" : [
+    {
+      "hash" : "24fc0b9fe9e0dcaccdc718674340ab72e0189306b1254be94e6c77f130e16657",
+      "name" : "Parse",
+      "container" : "Parse.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "3283fbe686d441f48d00fb8cf29db44c33db933ac4caec9bcf5789841b37331f",
+      "name" : "Parse",
+      "container" : "Parse.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "hash" : "ee53aa1a983016abc38fca77711413456a21ef653ec4667a9a130b55fd62cc36",
+      "name" : "ParseFacebookUtilsV4",
+      "container" : "ParseFacebookUtilsV4.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "hash" : "f232d1423b75ceb4f4b3f1c762acb70f3ecda237385dc812a6f6f8545da459ae",
+      "name" : "ParseFacebookUtilsV4",
+      "container" : "ParseFacebookUtilsV4.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "4c98d582796a3395354352fcc1b908c4ac24a2f9ac6d10c884a4740ba583c970",
+      "name" : "ParseTwitterUtils",
+      "container" : "ParseTwitterUtils.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "da8144dbcfca6a5a6827febc67df47f4b60e0494ae27adb09b3127b005502c03",
+      "name" : "ParseTwitterUtils",
+      "container" : "ParseTwitterUtils.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    },
+    {
+      "hash" : "835450b7d048b4067f5ca5903eb6b73d48cd4458257de31ba9195b9e31445c14",
+      "name" : "ParseUI",
+      "container" : "ParseUI.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "bd50b01e058e5132cd2228ac35a4fa37069ef946270a2d0a6e1ba55df6e91b3f",
+      "name" : "ParseUI",
+      "container" : "ParseUI.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}
